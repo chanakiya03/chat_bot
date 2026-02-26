@@ -1,0 +1,23 @@
+Column Name,Data Value
+College Name,Sri Balaji Arts & Science College
+Type,Arts & Science College
+About,"Undergraduate and postgraduate college offering Commerce, Computer Science and Management programs."
+Established,NA
+Location,"Chennai, Tamil Nadu, India"
+Accreditation,NA
+RANKING & REPUTATION,Emerging private arts & science college
+PLACEMENT DATA,60–75% (varies by department)
+STUDENT CLUBS,"NSS, Cultural Club, Commerce Club, Computer Science Association"
+Courses Offered,UG & PG Programs
+Hostel Available,Yes
+Average Package,₹2 – 3.5 LPA
+Admission Mode,Merit-Based
+Popular Courses,"B.Com, B.Sc Computer Science, BCA"
+Course,Course (split) batch,Duration,Stream,Specialization,Annual Fees (₹)
+B.B.A Business Administration,UG,3 Years,Management,Business Administration,"45,000"
+B.C.A General,UG,3 Years,Computer Applications,General,"55,000"
+B.Com General,UG,3 Years,Commerce,General,"40,000"
+B.Com Computer Applications,UG,3 Years,Commerce,Computer Applications,"50,000"
+B.Sc Computer Science,UG,3 Years,Science,Computer Science,"60,000"
+B.Sc Computer Science with Data Science,UG,3 Years,Science,Computer Science with Data Science,"65,000"
+M.Com General,PG,2 Years,Commerce,General,"50,000"

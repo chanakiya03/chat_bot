@@ -1,0 +1,77 @@
+{
+    "college_details": {
+        "Column Name": "Data Value",
+        "College Name": "Sri Balaji Arts & Science College",
+        "Type": "Arts & Science College",
+        "About": "Undergraduate and postgraduate college offering Commerce, Computer Science and Management programs.",
+        "Established": "NA",
+        "Location": "Chennai, Tamil Nadu, India",
+        "Accreditation": "NA",
+        "RANKING & REPUTATION": "Emerging private arts & science college",
+        "PLACEMENT DATA": "60\u201375% (varies by department)",
+        "STUDENT CLUBS": "NSS, Cultural Club, Commerce Club, Computer Science Association",
+        "Courses Offered": "UG & PG Programs",
+        "Hostel Available": "Yes",
+        "Average Package": "\u20b92 \u2013 3.5 LPA",
+        "Admission Mode": "Merit-Based",
+        "Popular Courses": "B.Com, B.Sc Computer Science, BCA"
+    },
+    "courses": [
+        {
+            "course": "B.B.A Business Administration",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Management",
+            "specialization": "Business Administration",
+            "annual_fees_inr": 45000
+        },
+        {
+            "course": "B.C.A General",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Computer Applications",
+            "specialization": "General",
+            "annual_fees_inr": 55000
+        },
+        {
+            "course": "B.Com General",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "General",
+            "annual_fees_inr": 40000
+        },
+        {
+            "course": "B.Com Computer Applications",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Computer Applications",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "B.Sc Computer Science",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Computer Science",
+            "annual_fees_inr": 60000
+        },
+        {
+            "course": "B.Sc Computer Science with Data Science",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Computer Science with Data Science",
+            "annual_fees_inr": 65000
+        },
+        {
+            "course": "M.Com General",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Commerce",
+            "specialization": "General",
+            "annual_fees_inr": 50000
+        }
+    ]
+}

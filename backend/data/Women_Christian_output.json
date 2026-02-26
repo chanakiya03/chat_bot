@@ -1,0 +1,221 @@
+{
+    "college_details": {
+        "Column Name": "Data Value",
+        "College Name": "Women\u2019s Christian College (WCC)",
+        "Type": "Autonomous Women\u2019s Institution (Aided Shift I / Self-Financed Shift II)",
+        "About": "Established in 1915, WCC is a premier autonomous college in Chennai known for academic excellence and holistic development. It offers a wide range of UG, PG, and Research programs with a strong focus on industry-oriented learning.",
+        "Established": "1915 (Shift II introduced in 1998)",
+        "Location": "College Road, Nungambakkam, Chennai, Tamil Nadu, India",
+        "Accreditation": "Autonomous Institution, NAAC Accredited, Affiliated to University of Madras",
+        "RANKING & REPUTATION": "Consistently recognized as one of the leading women\u2019s colleges in India with a distinguished global alumni network.",
+        "PLACEMENT DATA": "placement rate 35%,Structured placement support across IT, Banking, Consulting, and Media sectors; strong emphasis on internship integration.",
+        "STUDENT CLUBS": "Commerce Association, IT & Coding Clubs, Media Forums, Cultural & Literary Clubs, Social Outreach & Service Learning.",
+        "Courses Offered": "UG, PG, M.Phil, and Ph.D. programs across Arts, Science, Commerce, Management, and IT.",
+        "Hostel Available": "Yes",
+        "Average Package": "\u20b93 \u2013 5.5 LPA (Estimated based on similar tier-1 Chennai colleges)",
+        "Admission Mode": "Merit-based for UG/PG; Entrance or Interview-based for select PG and Research programs.",
+        "Popular Courses": "B.Com (Honours), BCA, B.Sc Visual Communication, M.Sc Data Science, M.A. HRM"
+    },
+    "courses": [
+        {
+            "course": "B.Com General [Shift II]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "General",
+            "annual_fees_inr": 65000
+        },
+        {
+            "course": "B.Com Accounting & Finance [Shift II]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Accounting & Finance",
+            "annual_fees_inr": 75000
+        },
+        {
+            "course": "B.Com Computer Applications [Shift II]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Computer Applications",
+            "annual_fees_inr": 70000
+        },
+        {
+            "course": "B.Com Honours [Shift II]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Honours",
+            "annual_fees_inr": 85000
+        },
+        {
+            "course": "B.Com Corporate Secretaryship [Shift II]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Corporate Secretaryship",
+            "annual_fees_inr": 70000
+        },
+        {
+            "course": "M.Com General [Shift II]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Commerce",
+            "specialization": "General",
+            "annual_fees_inr": 60000
+        },
+        {
+            "course": "B.B.A Business Administration [Shift II]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Management",
+            "specialization": "Business Administration",
+            "annual_fees_inr": 75000
+        },
+        {
+            "course": "M.A. Human Resource Management [Shift II]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Management",
+            "specialization": "HRM",
+            "annual_fees_inr": 70000
+        },
+        {
+            "course": "BCA Computer Applications [Shift II]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Computer",
+            "specialization": "Computer Applications",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "B.Sc. Information Technology [Shift II]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Computer",
+            "specialization": "IT",
+            "annual_fees_inr": 75000
+        },
+        {
+            "course": "M.Sc. Information Technology [Shift II]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Computer",
+            "specialization": "IT",
+            "annual_fees_inr": 85000
+        },
+        {
+            "course": "M.Sc. CS & Tech (Integrated) [Shift II]",
+            "batch": "Integrated",
+            "duration_years": "5",
+            "stream": "Computer",
+            "specialization": "CS & Technology",
+            "annual_fees_inr": 90000
+        },
+        {
+            "course": "B.Sc. Computer Science with Data Science",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Computer",
+            "specialization": "Data Science",
+            "annual_fees_inr": 85000
+        },
+        {
+            "course": "M.Sc. Data Science [Shift II]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Computer",
+            "specialization": "Data Science",
+            "annual_fees_inr": 110000
+        },
+        {
+            "course": "B.Sc. Visual Communication [Shift II]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Media",
+            "specialization": "Visual Communication",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "M.A. Communication [Shift II]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Media",
+            "specialization": "Communication",
+            "annual_fees_inr": 75000
+        },
+        {
+            "course": "B.A. Corporate Economics [Shift II]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Economics",
+            "specialization": "Corporate Economics",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "M.A. International Studies [Shift II]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Social Science",
+            "specialization": "International Relations",
+            "annual_fees_inr": 65000
+        },
+        {
+            "course": "Master of Social Work (MSW) [Shift II]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Social Work",
+            "specialization": "Medical/Psychiatry/HRM",
+            "annual_fees_inr": 60000
+        },
+        {
+            "course": "M.Sc. Applied Psychology [Shift II]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Psychology",
+            "specialization": "Counseling Psychology",
+            "annual_fees_inr": 75000
+        },
+        {
+            "course": "M.Sc. Mathematics [Shift II]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Mathematics",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "M.Sc. Physics [Shift II]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Physics",
+            "annual_fees_inr": 55000
+        },
+        {
+            "course": "M.Sc. Chemistry [Shift II]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Chemistry",
+            "annual_fees_inr": 55000
+        },
+        {
+            "course": "Ph.D. Biotechnology",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Research",
+            "specialization": "Biotechnology",
+            "annual_fees_inr": 60000
+        },
+        {
+            "course": "Ph.D. Computer Science",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Research",
+            "specialization": "Computer Science",
+            "annual_fees_inr": 60000
+        }
+    ]
+}

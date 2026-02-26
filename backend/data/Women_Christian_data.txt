@@ -1,0 +1,41 @@
+Column Name,Data Value
+College Name,Women’s Christian College (WCC)
+Type,Autonomous Women’s Institution (Aided Shift I / Self-Financed Shift II)
+About,"Established in 1915, WCC is a premier autonomous college in Chennai known for academic excellence and holistic development. It offers a wide range of UG, PG, and Research programs with a strong focus on industry-oriented learning."
+Established,1915 (Shift II introduced in 1998)
+Location,"College Road, Nungambakkam, Chennai, Tamil Nadu, India"
+Accreditation,"Autonomous Institution, NAAC Accredited, Affiliated to University of Madras"
+RANKING & REPUTATION,Consistently recognized as one of the leading women’s colleges in India with a distinguished global alumni network.
+PLACEMENT DATA, "placement rate 35%,Structured placement support across IT, Banking, Consulting, and Media sectors; strong emphasis on internship integration."
+STUDENT CLUBS,"Commerce Association, IT & Coding Clubs, Media Forums, Cultural & Literary Clubs, Social Outreach & Service Learning."
+Courses Offered,"UG, PG, M.Phil, and Ph.D. programs across Arts, Science, Commerce, Management, and IT."
+Hostel Available,Yes
+Average Package,₹3 – 5.5 LPA (Estimated based on similar tier-1 Chennai colleges)
+Admission Mode,Merit-based for UG/PG; Entrance or Interview-based for select PG and Research programs.
+Popular Courses,"B.Com (Honours), BCA, B.Sc Visual Communication, M.Sc Data Science, M.A. HRM"
+Course,Course (split) batch,Duration,Stream,Specialization,Annual Fees (₹)
+B.Com General [Shift II],UG,3 Years,Commerce,General,"65,000"
+B.Com Accounting & Finance [Shift II],UG,3 Years,Commerce,Accounting & Finance,"75,000"
+B.Com Computer Applications [Shift II],UG,3 Years,Commerce,Computer Applications,"70,000"
+B.Com Honours [Shift II],UG,3 Years,Commerce,Honours,"85,000"
+B.Com Corporate Secretaryship [Shift II],UG,3 Years,Commerce,Corporate Secretaryship,"70,000"
+M.Com General [Shift II],PG,2 Years,Commerce,General,"60,000"
+B.B.A Business Administration [Shift II],UG,3 Years,Management,Business Administration,"75,000"
+M.A. Human Resource Management [Shift II],PG,2 Years,Management,HRM,"70,000"
+BCA Computer Applications [Shift II],UG,3 Years,Computer,Computer Applications,"80,000"
+B.Sc. Information Technology [Shift II],UG,3 Years,Computer,IT,"75,000"
+M.Sc. Information Technology [Shift II],PG,2 Years,Computer,IT,"85,000"
+M.Sc. CS & Tech (Integrated) [Shift II],Integrated,5 Years,Computer,CS & Technology,"90,000"
+B.Sc. Computer Science with Data Science,UG,3 Years,Computer,Data Science,"85,000"
+M.Sc. Data Science [Shift II],PG,2 Years,Computer,Data Science,"1,10,000"
+B.Sc. Visual Communication [Shift II],UG,3 Years,Media,Visual Communication,"80,000"
+M.A. Communication [Shift II],PG,2 Years,Media,Communication,"75,000"
+B.A. Corporate Economics [Shift II],UG,3 Years,Economics,Corporate Economics,"50,000"
+M.A. International Studies [Shift II],PG,2 Years,Social Science,International Relations,"65,000"
+Master of Social Work (MSW) [Shift II],PG,2 Years,Social Work,Medical/Psychiatry/HRM,"60,000"
+M.Sc. Applied Psychology [Shift II],PG,2 Years,Psychology,Counseling Psychology,"75,000"
+M.Sc. Mathematics [Shift II],PG,2 Years,Science,Mathematics,"50,000"
+M.Sc. Physics [Shift II],PG,2 Years,Science,Physics,"55,000"
+M.Sc. Chemistry [Shift II],PG,2 Years,Science,Chemistry,"55,000"
+Ph.D. Biotechnology,Doctorate,3-5 Years,Research,Biotechnology,"60,000"
+Ph.D. Computer Science,Doctorate,3-5 Years,Research,Computer Science,"60,000"

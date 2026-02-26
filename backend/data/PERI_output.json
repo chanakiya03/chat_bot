@@ -1,0 +1,181 @@
+{
+    "college_details": {
+        "Column Name": "Data Value",
+        "College Name": "PERI College of Arts and Science",
+        "Type": "Self-Financed Arts & Science College",
+        "About": "Industry-oriented institution offering UG & PG programs with focus on skill development and placements.",
+        "Established": "2010",
+        "Location": "Mannivakkam, West Tambaram, Chennai \u2013 600048, Tamil Nadu, India",
+        "Accreditation": "NAAC B+",
+        "RANKING & REPUTATION": "Emerging private arts & science college in Chennai region.",
+        "PLACEMENT DATA": "Placement Percentage: 70\u201385%, Average Package: \u20b92.5 \u2013 4 LPA",
+        "STUDENT CLUBS": "NSS, Cultural Club, Commerce Association, Science Forum, IT Club, Women Empowerment Cell",
+        "Courses Offered": "UG & PG Programs (Arts, Science, Commerce, Management, Computer Applications)",
+        "Hostel Available": "Yes (Separate for Boys & Girls)",
+        "Average Package": "\u20b92.5 \u2013 4 LPA",
+        "Admission Mode": "Merit-Based, Direct Admission, Counseling",
+        "Popular Courses": "B.Sc Computer Science, B.Sc AI, B.Sc Data Science, B.Com A&F, BCA"
+    },
+    "courses": [
+        {
+            "course": "B.Com General",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "General",
+            "annual_fees_inr": 45000
+        },
+        {
+            "course": "B.Com Accounting & Finance",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Accounting & Finance",
+            "annual_fees_inr": 55000
+        },
+        {
+            "course": "B.Com Computer Application",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Computer Application",
+            "annual_fees_inr": 60000
+        },
+        {
+            "course": "B.Com Corporate Secretaryship",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Corporate Secretaryship",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "B.Sc Chemistry",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Chemistry",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "B.Sc Computer Science",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Computer Science",
+            "annual_fees_inr": 70000
+        },
+        {
+            "course": "B.Sc Artificial Intelligence",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Artificial Intelligence",
+            "annual_fees_inr": 90000
+        },
+        {
+            "course": "B.Sc Data Science",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Data Science",
+            "annual_fees_inr": 95000
+        },
+        {
+            "course": "B.Sc Visual Communication",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Visual Communication",
+            "annual_fees_inr": 65000
+        },
+        {
+            "course": "B.Sc Microbiology",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Microbiology",
+            "annual_fees_inr": 75000
+        },
+        {
+            "course": "B.Sc Psychology",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Psychology",
+            "annual_fees_inr": 60000
+        },
+        {
+            "course": "B.Sc Biotechnology",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Biotechnology",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "BCA Computer Application",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Computer",
+            "specialization": "Computer Application",
+            "annual_fees_inr": 85000
+        },
+        {
+            "course": "B.A Tamil",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "Tamil",
+            "annual_fees_inr": 35000
+        },
+        {
+            "course": "B.A English",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "English",
+            "annual_fees_inr": 40000
+        },
+        {
+            "course": "B.A Criminology & Police Administration",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "Criminology & Police Administration",
+            "annual_fees_inr": 55000
+        },
+        {
+            "course": "BBA Business Administration",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Management",
+            "specialization": "Business Administration",
+            "annual_fees_inr": 75000
+        },
+        {
+            "course": "M.Com General",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Commerce",
+            "specialization": "General",
+            "annual_fees_inr": 60000
+        },
+        {
+            "course": "M.Sc Computer Science",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Computer Science",
+            "annual_fees_inr": 90000
+        },
+        {
+            "course": "M.Sc Microbiology",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Microbiology",
+            "annual_fees_inr": 95000
+        }
+    ]
+}

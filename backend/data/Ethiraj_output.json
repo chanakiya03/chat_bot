@@ -1,0 +1,470 @@
+{
+    "college_details": {
+        "Column Name": "Data Value",
+        "College Name": "Ethiraj College for Women",
+        "Type": "Autonomous Women\u2019s College (Affiliated to University of Madras)",
+        "About": "One of the premier women\u2019s colleges in Chennai offering UG, PG and Doctoral programs in Arts, Science, Commerce, Management and Computer Applications with strong academic reputation and placement record.",
+        "Established": "1948",
+        "Location": "Egmore, Chennai \u2013 600008, Tamil Nadu, India",
+        "Accreditation": "NAAC A+ Grade",
+        "RANKING & REPUTATION": "Among top women\u2019s colleges in Tamil Nadu",
+        "PLACEMENT DATA": "75\u201390% placement (varies by department)",
+        "STUDENT CLUBS": "NSS, NCC, Rotaract, Women Development Cell, Literary Club, Commerce Association, Science Forum, Cultural Club",
+        "Courses Offered": "UG, PG & Ph.D Programmes",
+        "Hostel Available": "Yes",
+        "Average Package": "\u20b93 \u2013 5 LPA",
+        "Admission Mode": "Merit-Based",
+        "Popular Courses": "B.Com, B.Sc Computer Science, BBA, M.Com, MBA, M.Sc Biochemistry",
+        "Campus Facilities": "Health Center, High-Speed WIFI, Central Library, State-of-the-art Labs, Women Empowerment Cell"
+    },
+    "courses": [
+        {
+            "course": "B.A Economics",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "Economics",
+            "annual_fees_inr": 35000
+        },
+        {
+            "course": "B.A History",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "History",
+            "annual_fees_inr": 30000
+        },
+        {
+            "course": "B.A English",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "English",
+            "annual_fees_inr": 40000
+        },
+        {
+            "course": "B.A Tourism & Travel Management",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "Tourism & Travel Management",
+            "annual_fees_inr": 45000
+        },
+        {
+            "course": "B.A Business Economics",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "Business Economics",
+            "annual_fees_inr": 45000
+        },
+        {
+            "course": "B.Sc Advanced Zoology & Biotechnology",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Advanced Zoology & Biotechnology",
+            "annual_fees_inr": 55000
+        },
+        {
+            "course": "B.Sc Chemistry",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Chemistry",
+            "annual_fees_inr": 45000
+        },
+        {
+            "course": "B.Sc Plant Biology & Biotechnology",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Plant Biology & Biotechnology",
+            "annual_fees_inr": 55000
+        },
+        {
+            "course": "B.Sc Physics",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Physics",
+            "annual_fees_inr": 45000
+        },
+        {
+            "course": "B.Sc Mathematics",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Mathematics",
+            "annual_fees_inr": 40000
+        },
+        {
+            "course": "B.Sc Computer Science",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Computer Science",
+            "annual_fees_inr": 70000
+        },
+        {
+            "course": "B.Sc Biochemistry",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Biochemistry",
+            "annual_fees_inr": 65000
+        },
+        {
+            "course": "B.Sc Microbiology",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Microbiology",
+            "annual_fees_inr": 65000
+        },
+        {
+            "course": "B.Sc Psychology",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Psychology",
+            "annual_fees_inr": 60000
+        },
+        {
+            "course": "B.Sc Clinical Nutrition & Dietetics",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Clinical Nutrition & Dietetics",
+            "annual_fees_inr": 70000
+        },
+        {
+            "course": "B.Sc Visual Communication",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Visual Communication",
+            "annual_fees_inr": 75000
+        },
+        {
+            "course": "B.Sc Mathematics with Computer Application",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Mathematics with Computer Application",
+            "annual_fees_inr": 75000
+        },
+        {
+            "course": "B.Sc Mathematics with Data Science",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Mathematics with Data Science",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "B.Com General",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "General",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "B.Com Corporate Secretaryship",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Corporate Secretaryship",
+            "annual_fees_inr": 55000
+        },
+        {
+            "course": "B.Com Bank Management",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Bank Management",
+            "annual_fees_inr": 60000
+        },
+        {
+            "course": "B.Com Accounting & Finance",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Accounting & Finance",
+            "annual_fees_inr": 65000
+        },
+        {
+            "course": "B.Com Honours",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Honours",
+            "annual_fees_inr": 75000
+        },
+        {
+            "course": "BBA Business Administration",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Management",
+            "specialization": "Business Administration",
+            "annual_fees_inr": 75000
+        },
+        {
+            "course": "BCA General",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Computer Applications",
+            "specialization": "General",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "M.A Economics",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "Economics",
+            "annual_fees_inr": 45000
+        },
+        {
+            "course": "M.A English",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "English",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "M.A History",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "History",
+            "annual_fees_inr": 40000
+        },
+        {
+            "course": "M.A Tamil",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "Tamil",
+            "annual_fees_inr": 35000
+        },
+        {
+            "course": "M.A Business Economics",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "Business Economics",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "M.A Journalism & Communication",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "Journalism & Communication",
+            "annual_fees_inr": 60000
+        },
+        {
+            "course": "M.A Human Resources Management",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "Human Resources Management",
+            "annual_fees_inr": 55000
+        },
+        {
+            "course": "M.A Human Rights & Duties Education",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "Human Rights & Duties Education",
+            "annual_fees_inr": 45000
+        },
+        {
+            "course": "M.Sc Zoology",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Zoology",
+            "annual_fees_inr": 60000
+        },
+        {
+            "course": "M.Sc Chemistry",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Chemistry",
+            "annual_fees_inr": 55000
+        },
+        {
+            "course": "M.Sc Plant Biology & Biotechnology",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Plant Biology & Biotechnology",
+            "annual_fees_inr": 65000
+        },
+        {
+            "course": "M.Sc Mathematics",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Mathematics",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "M.Sc Physics",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Physics",
+            "annual_fees_inr": 55000
+        },
+        {
+            "course": "M.Sc Computer Science",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Computer Science",
+            "annual_fees_inr": 85000
+        },
+        {
+            "course": "M.Sc Biochemistry",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Biochemistry",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "M.Sc Applied Microbiology",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Applied Microbiology",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "M.Sc Applied Psychology",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Applied Psychology",
+            "annual_fees_inr": 75000
+        },
+        {
+            "course": "M.Sc Food & Nutrition",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Food & Nutrition",
+            "annual_fees_inr": 75000
+        },
+        {
+            "course": "M.Com General",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Commerce",
+            "specialization": "General",
+            "annual_fees_inr": 55000
+        },
+        {
+            "course": "M.Com Corporate Secretaryship",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Commerce",
+            "specialization": "Corporate Secretaryship",
+            "annual_fees_inr": 65000
+        },
+        {
+            "course": "M.Com Banking & Insurance Management",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Commerce",
+            "specialization": "Banking & Insurance Management",
+            "annual_fees_inr": 65000
+        },
+        {
+            "course": "MBA Business Administration",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Management",
+            "specialization": "Business Administration",
+            "annual_fees_inr": 120000
+        },
+        {
+            "course": "MCA General",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Computer Applications",
+            "specialization": "General",
+            "annual_fees_inr": 110000
+        },
+        {
+            "course": "Ph.D Economics",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Arts",
+            "specialization": "Economics",
+            "annual_fees_inr": 70000
+        },
+        {
+            "course": "Ph.D History",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Arts",
+            "specialization": "History",
+            "annual_fees_inr": 65000
+        },
+        {
+            "course": "Ph.D Zoology",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Science",
+            "specialization": "Zoology",
+            "annual_fees_inr": 75000
+        },
+        {
+            "course": "Ph.D Commerce",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Commerce",
+            "specialization": "Commerce",
+            "annual_fees_inr": 75000
+        },
+        {
+            "course": "Ph.D English",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Arts",
+            "specialization": "English",
+            "annual_fees_inr": 70000
+        },
+        {
+            "course": "Ph.D Chemistry",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Science",
+            "specialization": "Chemistry",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "Ph.D Physics",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Science",
+            "specialization": "Physics",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "Ph.D Mathematics",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Science",
+            "specialization": "Mathematics",
+            "annual_fees_inr": 75000
+        }
+    ]
+}

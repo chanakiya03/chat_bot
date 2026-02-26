@@ -1,0 +1,541 @@
+{
+    "college_details": {
+        "Column Name": "Data Value",
+        "College Name": "Loyola College",
+        "Type": "Autonomous College (Affiliated to University of Madras)",
+        "About": "Premier co-educational arts and science college in Chennai (historically for men, admitting women in PG and specific UG programs), offering UG, PG and Ph.D programs with strong academic and placement support.",
+        "Established": "1925",
+        "Location": "Nungambakkam, Chennai \u2013 600034, Tamil Nadu, India",
+        "Accreditation": "NAAC A++ Grade",
+        "RANKING & REPUTATION": "Among top-ranked arts & science colleges in India",
+        "PLACEMENT DATA": "80\u201395% placement (varies by department)",
+        "STUDENT CLUBS": "NSS, NCC, Rotaract, Cultural Club, Science Forum, Commerce Association, IT Club, Women Empowerment Cell",
+        "Courses Offered": "UG, PG, Vocational & Ph.D. Programs",
+        "Hostel Available": "Yes (Limited seats for outstation students)",
+        "Average Package": "\u20b93 \u2013 6 LPA",
+        "Admission Mode": "Merit-Based / Counseling",
+        "Popular Courses": "B.A Economics, B.Sc Computer Science, B.Com Honours, BBA, M.Sc Data Science, M.Com"
+    },
+    "courses": [
+        {
+            "course": "B.A Economics",
+            "batch": "UG (Shift I)",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "Economics",
+            "annual_fees_inr": 30000
+        },
+        {
+            "course": "B.A English",
+            "batch": "UG (Shift I)",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "English",
+            "annual_fees_inr": 30000
+        },
+        {
+            "course": "B.A History",
+            "batch": "UG (Shift I)",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "History",
+            "annual_fees_inr": 30000
+        },
+        {
+            "course": "B.A Sociology",
+            "batch": "UG (Shift I)",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "Sociology",
+            "annual_fees_inr": 30000
+        },
+        {
+            "course": "B.A Tamil",
+            "batch": "UG (Shift I)",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "Tamil",
+            "annual_fees_inr": 30000
+        },
+        {
+            "course": "B.Com General",
+            "batch": "UG (Shift I)",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "General",
+            "annual_fees_inr": 35000
+        },
+        {
+            "course": "B.Sc Advanced Zoology & Biotechnology",
+            "batch": "UG (Shift I)",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Advanced Zoology & Biotechnology",
+            "annual_fees_inr": 40000
+        },
+        {
+            "course": "B.Sc Chemistry",
+            "batch": "UG (Shift I)",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Chemistry",
+            "annual_fees_inr": 35000
+        },
+        {
+            "course": "B.Sc Mathematics",
+            "batch": "UG (Shift I)",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Mathematics",
+            "annual_fees_inr": 35000
+        },
+        {
+            "course": "B.Sc Physics",
+            "batch": "UG (Shift I)",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Physics",
+            "annual_fees_inr": 35000
+        },
+        {
+            "course": "B.Sc Plant Biology & Plant Biotechnology",
+            "batch": "UG (Shift I)",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Plant Biology & Plant Biotechnology",
+            "annual_fees_inr": 40000
+        },
+        {
+            "course": "B.Sc Statistics",
+            "batch": "UG (Shift I)",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Statistics",
+            "annual_fees_inr": 35000
+        },
+        {
+            "course": "B.Sc Visual Communication",
+            "batch": "UG (Shift I)",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Visual Communication",
+            "annual_fees_inr": 40000
+        },
+        {
+            "course": "B.A Economics",
+            "batch": "UG (Shift II)",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "Economics",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "B.A English",
+            "batch": "UG (Shift II)",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "English",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "B.A French Literature",
+            "batch": "UG (Shift II)",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "French Literature",
+            "annual_fees_inr": 85000
+        },
+        {
+            "course": "B.A History",
+            "batch": "UG (Shift II)",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "History",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "B.B.A Business Administration",
+            "batch": "UG (Shift II)",
+            "duration_years": "3",
+            "stream": "Management",
+            "specialization": "Business Administration",
+            "annual_fees_inr": 85000
+        },
+        {
+            "course": "B.Com Corporate Secretaryship",
+            "batch": "UG (Shift II)",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Corporate Secretaryship",
+            "annual_fees_inr": 85000
+        },
+        {
+            "course": "B.Com General",
+            "batch": "UG (Shift II)",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "General",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "B.Com Accounting & Finance",
+            "batch": "UG (Shift II)",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Accounting & Finance",
+            "annual_fees_inr": 90000
+        },
+        {
+            "course": "B.Com Computer Applications",
+            "batch": "UG (Shift II)",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Computer Applications",
+            "annual_fees_inr": 90000
+        },
+        {
+            "course": "B.Com Honours",
+            "batch": "UG (Shift II)",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Honours",
+            "annual_fees_inr": 95000
+        },
+        {
+            "course": "B.C.A Computer Applications",
+            "batch": "UG (Shift II)",
+            "duration_years": "3",
+            "stream": "Computer Applications",
+            "specialization": "General",
+            "annual_fees_inr": 85000
+        },
+        {
+            "course": "B.Sc Computer Science",
+            "batch": "UG (Shift II)",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Computer Science",
+            "annual_fees_inr": 90000
+        },
+        {
+            "course": "B.Sc Chemistry",
+            "batch": "UG (Shift II)",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Chemistry",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "B.Sc Mathematics",
+            "batch": "UG (Shift II)",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Mathematics",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "B.Sc Physics",
+            "batch": "UG (Shift II)",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Physics",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "B.Sc Visual Communication",
+            "batch": "UG (Shift II)",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Visual Communication",
+            "annual_fees_inr": 85000
+        },
+        {
+            "course": "B.M.M Multimedia & Animation",
+            "batch": "UG (Shift II)",
+            "duration_years": "3",
+            "stream": "Vocational",
+            "specialization": "Multimedia & Animation",
+            "annual_fees_inr": 90000
+        },
+        {
+            "course": "B.Voc 3D Animation",
+            "batch": "UG (Shift II)",
+            "duration_years": "3",
+            "stream": "Vocational",
+            "specialization": "3D Animation",
+            "annual_fees_inr": 100000
+        },
+        {
+            "course": "B.Voc Digital Journalism",
+            "batch": "UG (Shift II)",
+            "duration_years": "3",
+            "stream": "Vocational",
+            "specialization": "Digital Journalism",
+            "annual_fees_inr": 100000
+        },
+        {
+            "course": "M.A Economics",
+            "batch": "PG (Shift I)",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "Economics",
+            "annual_fees_inr": 35000
+        },
+        {
+            "course": "M.A English",
+            "batch": "PG (Shift I)",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "English",
+            "annual_fees_inr": 35000
+        },
+        {
+            "course": "M.A Social Work",
+            "batch": "PG (Shift I)",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "Social Work",
+            "annual_fees_inr": 35000
+        },
+        {
+            "course": "M.Com General",
+            "batch": "PG (Shift I)",
+            "duration_years": "2",
+            "stream": "Commerce",
+            "specialization": "General",
+            "annual_fees_inr": 35000
+        },
+        {
+            "course": "M.Sc Chemistry",
+            "batch": "PG (Shift I)",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Chemistry",
+            "annual_fees_inr": 35000
+        },
+        {
+            "course": "M.Sc Mathematics",
+            "batch": "PG (Shift I)",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Mathematics",
+            "annual_fees_inr": 35000
+        },
+        {
+            "course": "M.Sc Physics",
+            "batch": "PG (Shift I)",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Physics",
+            "annual_fees_inr": 35000
+        },
+        {
+            "course": "M.Sc Statistics",
+            "batch": "PG (Shift I)",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Statistics",
+            "annual_fees_inr": 35000
+        },
+        {
+            "course": "M.Sc Zoology",
+            "batch": "PG (Shift I)",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Zoology",
+            "annual_fees_inr": 35000
+        },
+        {
+            "course": "M.A Applied History",
+            "batch": "PG (Shift II)",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "Applied History",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "M.A Philosophy",
+            "batch": "PG (Shift II)",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "Philosophy",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "M.A Social Work",
+            "batch": "PG (Shift II)",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "Social Work",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "M.A Sociology",
+            "batch": "PG (Shift II)",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "Sociology",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "M.Sc Data Science",
+            "batch": "PG (Shift II)",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Data Science",
+            "annual_fees_inr": 100000
+        },
+        {
+            "course": "M.Sc Bio-Technology",
+            "batch": "PG (Shift II)",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Bio-Technology",
+            "annual_fees_inr": 95000
+        },
+        {
+            "course": "M.Sc Computer Science",
+            "batch": "PG (Shift II)",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Computer Science",
+            "annual_fees_inr": 100000
+        },
+        {
+            "course": "M.Sc Food Chemistry & Processing",
+            "batch": "PG (Shift II)",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Food Chemistry & Food Processing",
+            "annual_fees_inr": 95000
+        },
+        {
+            "course": "M.Sc Visual Communication",
+            "batch": "PG (Shift II)",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Visual Communication",
+            "annual_fees_inr": 95000
+        },
+        {
+            "course": "M.Voc 3D Animation",
+            "batch": "PG (Shift II)",
+            "duration_years": "2",
+            "stream": "Vocational",
+            "specialization": "3D Animation",
+            "annual_fees_inr": 105000
+        },
+        {
+            "course": "M.Voc Digital Journalism",
+            "batch": "PG (Shift II)",
+            "duration_years": "2",
+            "stream": "Vocational",
+            "specialization": "Digital Journalism",
+            "annual_fees_inr": 105000
+        },
+        {
+            "course": "Ph.D Economics",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Arts",
+            "specialization": "Economics",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "Ph.D English",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Arts",
+            "specialization": "English",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "Ph.D History",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Arts",
+            "specialization": "History",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "Ph.D Social Work",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Arts",
+            "specialization": "Social Work",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "Ph.D Tamil",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Arts",
+            "specialization": "Tamil",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "Ph.D Commerce",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Commerce",
+            "specialization": "Commerce",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "Ph.D Chemistry",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Science",
+            "specialization": "Chemistry",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "Ph.D Entomology",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Science",
+            "specialization": "Entomology",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "Ph.D Mathematics",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Science",
+            "specialization": "Mathematics",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "Ph.D Physics",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Science",
+            "specialization": "Physics",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "Ph.D Plant Biology & Biotechnology",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Science",
+            "specialization": "Plant Biology & Plant Biotechnology",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "Ph.D Statistics",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Science",
+            "specialization": "Statistics",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "Ph.D Zoology",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Science",
+            "specialization": "Zoology",
+            "annual_fees_inr": 50000
+        }
+    ]
+}

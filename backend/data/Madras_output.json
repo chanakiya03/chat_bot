@@ -1,0 +1,502 @@
+{
+    "college_details": {
+        "Column Name": "Data Value",
+        "College Name": "Madras Christian College (MCC)",
+        "Type": "Autonomous College (Affiliated to University of Madras)",
+        "About": "Established in 1837, MCC is one of India\u2019s oldest higher education institutions known for academic excellence, research, and holistic development.",
+        "Established": "1837",
+        "Location": "Tambaram East, Chennai \u2013 600059, Tamil Nadu, India",
+        "Accreditation": "NAAC A++ (Reaccredited)",
+        "RANKING & REPUTATION": "Ranked among Top Arts & Science Colleges in India; Autonomous Status; Strong Academic & Research Output.",
+        "PLACEMENT DATA": "Placement Percentage: 75\u201385%, Average Package: \u20b93.5 \u2013 5 LPA, Top Recruiters: TCS, Infosys, Wipro, Cognizant, HCL",
+        "STUDENT CLUBS": "Literary Clubs, Science Forum, NSS, NCC, Rotaract, Cultural Committee, Eco Club, Entrepreneurship Cell",
+        "Courses Offered": "B.A, B.Com, B.Sc, B.S.W, B.B.A, B.C.A, M.A, M.Com, M.S.W, M.Sc, M.C.A, Ph.D.",
+        "Hostel Available": "Yes (Separate for Boys & Girls)",
+        "Average Package": "\u20b93.5 \u2013 5 LPA",
+        "Admission Mode": "UG: Merit-Based; PG & Ph.D: Entrance + Interview",
+        "Popular Courses": "B.Sc Computer Science, B.C.A, B.Com, M.Sc Chemistry, M.C.A",
+        "Campus Facilities": "Central Medical Center, Vast Playground & Sports Complex, Well-equipped Research Labs, Heritage Campus, Digital Library"
+    },
+    "courses": [
+        {
+            "course": "B.A English Language & Literature [Aided]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "English Language & Literature",
+            "annual_fees_inr": 15000
+        },
+        {
+            "course": "B.A Tamil Literature [Aided]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "Tamil Literature",
+            "annual_fees_inr": 12000
+        },
+        {
+            "course": "B.A History [Aided]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "History",
+            "annual_fees_inr": 13000
+        },
+        {
+            "course": "B.A Political Science [Aided]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "Political Science",
+            "annual_fees_inr": 13000
+        },
+        {
+            "course": "B.A Economics [Aided]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "Economics",
+            "annual_fees_inr": 14000
+        },
+        {
+            "course": "B.A Philosophy [Aided]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "Philosophy",
+            "annual_fees_inr": 12000
+        },
+        {
+            "course": "B.Com General [Aided]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "General",
+            "annual_fees_inr": 18000
+        },
+        {
+            "course": "B.Sc Mathematics [Aided]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Mathematics",
+            "annual_fees_inr": 20000
+        },
+        {
+            "course": "B.Sc Statistics [Aided]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Statistics",
+            "annual_fees_inr": 20000
+        },
+        {
+            "course": "B.Sc Physics [Aided]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Physics",
+            "annual_fees_inr": 22000
+        },
+        {
+            "course": "B.Sc Chemistry [Aided]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Chemistry",
+            "annual_fees_inr": 22000
+        },
+        {
+            "course": "B.Sc Plant Biology & Biotechnology [Aided]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Plant Biology & Biotechnology",
+            "annual_fees_inr": 23000
+        },
+        {
+            "course": "B.Sc Zoology [Aided]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Zoology",
+            "annual_fees_inr": 23000
+        },
+        {
+            "course": "BCA Computer Applications [Self-Financed]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Computer Applications",
+            "specialization": "Computer Applications",
+            "annual_fees_inr": 45000
+        },
+        {
+            "course": "M.A English [Aided]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "English",
+            "annual_fees_inr": 18000
+        },
+        {
+            "course": "M.A Tamil [Aided]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "Tamil",
+            "annual_fees_inr": 15000
+        },
+        {
+            "course": "M.A History [Aided]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "History",
+            "annual_fees_inr": 17000
+        },
+        {
+            "course": "M.A Political Science [Aided]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "Political Science",
+            "annual_fees_inr": 17000
+        },
+        {
+            "course": "M.A Public Administration [Aided]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "Public Administration",
+            "annual_fees_inr": 17000
+        },
+        {
+            "course": "M.A Economics [Aided]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "Economics",
+            "annual_fees_inr": 18000
+        },
+        {
+            "course": "M.A Philosophy [Aided]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "Philosophy",
+            "annual_fees_inr": 15000
+        },
+        {
+            "course": "M.Com General [Aided]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Commerce",
+            "specialization": "General",
+            "annual_fees_inr": 20000
+        },
+        {
+            "course": "M.S.W Community Development [Aided]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Social Work",
+            "specialization": "Community Development",
+            "annual_fees_inr": 22000
+        },
+        {
+            "course": "M.Sc Mathematics [Aided]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Mathematics",
+            "annual_fees_inr": 25000
+        },
+        {
+            "course": "M.Sc Statistics [Aided]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Statistics",
+            "annual_fees_inr": 25000
+        },
+        {
+            "course": "M.Sc Physics [Aided]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Physics",
+            "annual_fees_inr": 28000
+        },
+        {
+            "course": "M.Sc Chemistry [Aided]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Chemistry",
+            "annual_fees_inr": 28000
+        },
+        {
+            "course": "M.Sc Plant Biology & Biotechnology [Aided]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Plant Biology & Biotechnology",
+            "annual_fees_inr": 30000
+        },
+        {
+            "course": "M.Sc Zoology [Aided]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Zoology",
+            "annual_fees_inr": 30000
+        },
+        {
+            "course": "Ph.D All Full-Time Departments [Aided]",
+            "batch": "Ph.D",
+            "duration_years": "35",
+            "stream": "Research",
+            "specialization": "All Full-Time Departments",
+            "annual_fees_inr": 35000
+        },
+        {
+            "course": "Ph.D Telugu (Part-Time) [Aided]",
+            "batch": "Ph.D",
+            "duration_years": "35",
+            "stream": "Research",
+            "specialization": "Telugu (Part-Time)",
+            "annual_fees_inr": 30000
+        },
+        {
+            "course": "Ph.D Social Work (Part-Time) [Aided]",
+            "batch": "Ph.D",
+            "duration_years": "35",
+            "stream": "Research",
+            "specialization": "Social Work (Part-Time)",
+            "annual_fees_inr": 30000
+        },
+        {
+            "course": "B.A English [Self-Financed]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "English",
+            "annual_fees_inr": 40000
+        },
+        {
+            "course": "B.A Journalism [Self-Financed]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "Journalism",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "B.A History (Archeology & Museology) [Self-Financed]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "History (Archeology & Museology)",
+            "annual_fees_inr": 45000
+        },
+        {
+            "course": "B.S.W Social Work [Self-Financed]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Social Work",
+            "specialization": "Social Work",
+            "annual_fees_inr": 55000
+        },
+        {
+            "course": "B.Com General [Self-Financed]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "General",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "B.Com Accounting & Finance [Self-Financed]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Accounting & Finance",
+            "annual_fees_inr": 60000
+        },
+        {
+            "course": "B.Com Professional Accounting [Self-Financed]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Professional Accounting",
+            "annual_fees_inr": 65000
+        },
+        {
+            "course": "B.B.A Business Administration [Self-Financed]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Management",
+            "specialization": "Business Administration",
+            "annual_fees_inr": 70000
+        },
+        {
+            "course": "B.Sc Geography, Tourism & Travel [Self-Financed]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Geography, Tourism & Travel",
+            "annual_fees_inr": 60000
+        },
+        {
+            "course": "B.Sc Hospitality & Tourism [Self-Financed]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Hospitality & Tourism",
+            "annual_fees_inr": 75000
+        },
+        {
+            "course": "B.Sc Mathematics [Self-Financed]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Mathematics",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "B.Sc Physics [Self-Financed]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Physics",
+            "annual_fees_inr": 55000
+        },
+        {
+            "course": "B.Sc Microbiology [Self-Financed]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Microbiology",
+            "annual_fees_inr": 70000
+        },
+        {
+            "course": "B.C.A Computer Application [Self-Financed]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Computer",
+            "specialization": "Computer Application",
+            "annual_fees_inr": 85000
+        },
+        {
+            "course": "B.Sc Computer Science [Self-Financed]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Computer",
+            "specialization": "Computer Science",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "B.Sc Visual Communication [Self-Financed]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Media",
+            "specialization": "Visual Communication",
+            "annual_fees_inr": 75000
+        },
+        {
+            "course": "B.Sc Physical Education [Self-Financed]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Sports",
+            "specialization": "Physical Education",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "B.Sc Psychology [Self-Financed]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Psychology",
+            "annual_fees_inr": 60000
+        },
+        {
+            "course": "M.S.W HRM [Self-Financed]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Social Work",
+            "specialization": "HRM",
+            "annual_fees_inr": 75000
+        },
+        {
+            "course": "M.Com Computer Oriented Business App [Self-Financed]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Commerce",
+            "specialization": "Computer Oriented Business Application",
+            "annual_fees_inr": 70000
+        },
+        {
+            "course": "M.A Communication [Self-Financed]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Media",
+            "specialization": "Communication",
+            "annual_fees_inr": 65000
+        },
+        {
+            "course": "M.Sc Chemistry [Self-Financed]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Chemistry",
+            "annual_fees_inr": 75000
+        },
+        {
+            "course": "M.Sc Applied Microbiology [Self-Financed]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Applied Microbiology",
+            "annual_fees_inr": 85000
+        },
+        {
+            "course": "M.C.A Computer Application [Self-Financed]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Computer",
+            "specialization": "Computer Application",
+            "annual_fees_inr": 100000
+        },
+        {
+            "course": "M.Sc Data Science [Self-Financed]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Computer",
+            "specialization": "Data Science",
+            "annual_fees_inr": 110000
+        },
+        {
+            "course": "Ph.D Microbiology (Full-Time) [Self-Financed]",
+            "batch": "Ph.D",
+            "duration_years": "35",
+            "stream": "Research",
+            "specialization": "Microbiology (Full-Time)",
+            "annual_fees_inr": 60000
+        },
+        {
+            "course": "Ph.D Commerce (Part-Time) [Self-Financed]",
+            "batch": "Ph.D",
+            "duration_years": "35",
+            "stream": "Research",
+            "specialization": "Commerce (Part-Time)",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "Ph.D Social Work (Part-Time) [Self-Financed]",
+            "batch": "Ph.D",
+            "duration_years": "35",
+            "stream": "Research",
+            "specialization": "Social Work (Part-Time)",
+            "annual_fees_inr": 50000
+        }
+    ]
+}

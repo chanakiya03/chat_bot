@@ -1,0 +1,51 @@
+Column Name,Data Value
+College Name,Guru Nanak College
+Type,"Autonomous, Co-educational, Arts & Science College (Aided + Self-Financing)"
+About,"Established by the Dakshin Bharat Sikh Sabha, the college offers UG, PG, Professional and Research programmes in Arts, Science, Commerce and Management. It is known for academic excellence, discipline, and strong placement support."
+Established,1971
+Location,"Velachery, Chennai, Tamil Nadu, India"
+Accreditation,"NAAC Accredited (A++ Grade), Affiliated to University of Madras"
+RANKING & REPUTATION,One of the top autonomous arts & science colleges in Chennai; consistently high NAAC grade.
+PLACEMENT DATA,75–85% placement rate (varies by department)
+STUDENT CLUBS,"NSS, NCC, Youth Red Cross, Rotaract, Commerce Association, Science Forum, Literary Club, Cultural Club, Entrepreneurship Development Cell"
+Courses Offered,"UG, PG, Professional and Research programmes in Arts, Science, Commerce and Management"
+Hostel Available,Yes (Boys & Girls)
+Average Package,₹2.5 – ₹4.5 LPA (MBA & professional courses higher)
+Admission Mode,Merit-based (as per Tamil Nadu Govt norms)
+Popular Courses,"B.Com, BBA, BCA, MBA, B.Sc Computer Science, M.Com"
+Course,Course (split) batch,Duration,Stream,Specialization,Annual Fees (₹)
+B.A. Economics [Aided],UG,3 Years,Arts,Economics,"4,000"
+B.A. Defence & Strategic Studies [Aided],UG,3 Years,Arts,Defence Studies,"4,000"
+B.Sc. Mathematics [Aided],UG,3 Years,Science,Mathematics,"4,500"
+B.Sc. Physics [Aided],UG,3 Years,Science,Physics,"4,500"
+B.Sc. Chemistry [Aided],UG,3 Years,Science,Chemistry,"4,500"
+B.Sc. Plant Biology & Biotechnology [Aided],UG,3 Years,Science,Plant Biology,"6,500"
+B.Sc. Advanced Zoology & Biotechnology [Aided],UG,3 Years,Science,Zoology,"6,500"
+B.Com. General [Aided],UG,3 Years,Commerce,General,"4,000"
+B.Com. Corporate Secretaryship [Aided],UG,3 Years,Commerce,Corporate Secretaryship,"6,500"
+M.A. Economics [Aided],PG,2 Years,Arts,Economics,"6,000"
+M.Sc. Chemistry [Aided],PG,2 Years,Science,Chemistry,"7,500"
+M.Com. General [Aided],PG,2 Years,Commerce,General,"6,000"
+B.A. English [SFS-I],UG,3 Years,Arts,English,"32,500"
+B.A. Sociology [SFS-I],UG,3 Years,Arts,Sociology,"32,500"
+B.A. Political Science [SFS-I],UG,3 Years,Arts,Political Science,"32,500"
+B.Sc. Visual Communication [SFS-I],UG,3 Years,Science,Visual Communication,"60,000"
+B.Sc. Biotechnology [SFS-I],UG,3 Years,Science,Biotechnology,"52,500"
+B.Sc. Information Technology [SFS-I],UG,3 Years,Science,IT,"52,500"
+B.Sc. Data Analytics [SFS-I],UG,3 Years,Science,Data Analytics,"65,000"
+B.Com. General [SFS-I],UG,3 Years,Commerce,General,"42,500"
+B.Com. Computer Applications [SFS-I],UG,3 Years,Commerce,Computer Applications,"50,000"
+B.Com. Professional Accounting [SFS-I],UG,3 Years,Commerce,Accounting,"55,000"
+M.Sc. Mathematics [SFS-I],PG,2 Years,Science,Mathematics,"42,500"
+M.Sc. Zoology [SFS-I],PG,2 Years,Science,Zoology,"45,000"
+M.S.W [SFS-I],PG,2 Years,Arts,Social Work,"50,000"
+MBA Business Administration [SFS-I],PG,2 Years,Management,Business Administration,"1,00,000"
+MCA Computer Applications [SFS-I],PG,2 Years,Computer Applications,General,"85,000"
+B.B.A General [SFS-II],UG,3 Years,Management,General,"55,000"
+B.B.A Retail Management [SFS-II],UG,3 Years,Management,Retail,"60,000"
+B.C.A Computer Applications [SFS-II],UG,3 Years,Computer Applications,General,"60,000"
+B.Sc. Computer Science [SFS-II],UG,3 Years,Science,Computer Science,"60,000"
+B.Com. Accounting & Finance [SFS-II],UG,3 Years,Commerce,A&F,"55,000"
+B.Com. Honours [SFS-II],UG,3 Years,Commerce,Honours,"70,000"
+B.Com. Bank Management [SFS-II],UG,3 Years,Commerce,Banking,"55,000"
+B.Com. Marketing Management [SFS-II],UG,3 Years,Commerce,Marketing,"55,000"

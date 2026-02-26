@@ -1,0 +1,482 @@
+[
+  {
+    "question": "What is the fees for MBA at HITS?",
+    "verified": true,
+    "type": "specific_course_fee",
+    "text": "\ud83d\udcb0 **MBA Fee Details for Hindustan Institute of Technology and Science (HITS)**:\n\n- **MBA (General)**..."
+  },
+  {
+    "question": "Can you tell me about Loyola?",
+    "verified": true,
+    "type": "direct_database_response_multi",
+    "text": "\u2139\ufe0f **About Loyola College**:\nPremier co-educational arts and science college in Chennai (historicall..."
+  },
+  {
+    "question": "Does MCC have a hostel?",
+    "verified": true,
+    "type": "direct_database_response_multi",
+    "text": "\ud83c\udfe1 **Hostel Information for Madras Christian College (MCC)**:\nYes (Separate for Boys & Girls)..."
+  },
+  {
+    "question": "List all colleges in Tambaram.",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**Colleges located in Tambaram (as per the provided sources)**  \n\n| College | Location (as given) | ..."
+  },
+  {
+    "question": "Which college is better for MBA, HITS or Loyola?",
+    "verified": true,
+    "type": "comparison",
+    "text": "| Feature (MBA) | Loyola College | Hindustan Institute of Technology and Science (HITS) |\n|---|---|-..."
+  },
+  {
+    "question": "Top 5 colleges for B.Sc CS",
+    "verified": true,
+    "type": "ranking",
+    "text": "\ud83c\udfc6 **Verified COMPUTER SCIENCE College Rankings** _(based on placement, fees, packages)_\n\n**1. SSN Co..."
+  },
+  {
+    "question": "Cheapest engineering college",
+    "verified": true,
+    "type": "ranking",
+    "text": "\ud83c\udfc6 **Verified ENGINEERING College Rankings** _(based on placement, fees, packages)_\n\n**1. SSN College..."
+  },
+  {
+    "question": "Average package for MCA at BIHER",
+    "verified": true,
+    "type": "direct_database_response_multi",
+    "text": "\ud83d\udcbc **Placement Statistics for Bharath Institute of Higher Education and Research (BIHER)**:\n80\u201390% Pl..."
+  },
+  {
+    "question": "Is there a medical center at HITS?",
+    "verified": true,
+    "type": "facility_verified",
+    "text": "\u2705 Yes, **Hindustan Institute of Technology and Science (HITS)** has **Medical** facilities.\n\n**Infor..."
+  },
+  {
+    "question": "Show me all colleges in Velachery.",
+    "verified": true,
+    "type": "location_search",
+    "text": "\ud83d\udccd **Colleges found in/near Velachery**:\n\n- **Guru Nanak College** (Velachery, Chennai, Tamil Nadu, I..."
+  },
+  {
+    "question": "Hey, my budget is around 50k a year. Are there any decent B.Com courses I can get into?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**B.Com Courses Within a \u20b950,000 Annual Budget**\n\n| College | Course | Annual Fee |\n|---------|-----..."
+  },
+  {
+    "question": "How much is the management quota for CSE at SSN?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**Management quota fee for B.E. Computer Science & Engineering at SSN College of Engineering:**\u202f\u20b9200..."
+  },
+  {
+    "question": "Is the Aided stream at Guru Nanak cheaper? What is the fee for B.Sc Math there?",
+    "verified": true,
+    "type": "ranking",
+    "text": "\ud83c\udfc6 **Verified B.SC College Rankings** _(based on placement, fees, packages)_\n\n**1. Guru Nanak College..."
+  },
+  {
+    "question": "Which is cheaper for MCA, Loyola or Ethiraj?",
+    "verified": true,
+    "type": "ranking",
+    "text": "\ud83c\udfc6 **Verified MCA College Rankings** _(based on placement, fees, packages)_\n\n**1. Guru Nanak College*..."
+  },
+  {
+    "question": "What is the total cost for the 5-year Integrated M.Tech at SSN?",
+    "verified": true,
+    "type": "specific_course_fee",
+    "text": "\ud83d\udcb0 **M.TECH Fee Details for SSN College of Engineering**:\n\n- **M.Tech Information Technology (IT)**: ..."
+  },
+  {
+    "question": "What is the fee structure for B.Pharm at BIHER?",
+    "verified": true,
+    "type": "direct_database_response_multi",
+    "text": "\ud83d\udcb0 **Fee structure for Bharath Institute of Higher Education and Research (BIHER)** typically varies ..."
+  },
+  {
+    "question": "How much does B.Sc Visual Communication cost at WCC compared to MCC?",
+    "verified": true,
+    "type": "comparison",
+    "text": "| Feature (B.SC) | Women\u2019s Christian College (WCC) | Madras Christian College (MCC) |\n|---|---|---|\n..."
+  },
+  {
+    "question": "Does Sri Balaji have any courses under 40,000 rupees?",
+    "verified": true,
+    "type": "course_details",
+    "text": "\ud83c\udfdb\ufe0f **Sri Balaji Arts & Science College** - Information\n\ud83d\udccd **Location**: Chennai, Tamil Nadu, India\n\ud83d\udcdc ..."
+  },
+  {
+    "question": "What is the fee for B.Tech AI & ML at HITS?",
+    "verified": true,
+    "type": "specific_course_fee",
+    "text": "\ud83d\udcb0 **B.TECH Fee Details for Hindustan Institute of Technology and Science (HITS)**:\n\n- **B.Tech Aeron..."
+  },
+  {
+    "question": "What is the difference in fees between Shift 1 and Shift 2 B.Com at Loyola?",
+    "verified": true,
+    "type": "direct_database_response_multi",
+    "text": "\ud83d\udcb0 **Fee structure for Loyola College** typically varies by course (e.g., B.A Economics, B.Sc Compute..."
+  },
+  {
+    "question": "Is SSN strictly an engineering college or do they offer arts courses too?",
+    "verified": true,
+    "type": "course_details",
+    "text": "\ud83c\udfdb\ufe0f **SSN College of Engineering** - Information\n\ud83d\udccd **Location**: Kalavakkam (OMR), Chennai, Tamil Nad..."
+  },
+  {
+    "question": "Which is better for women, Ethiraj or WCC?",
+    "verified": true,
+    "type": "comparison",
+    "text": "| Feature | Ethiraj College for Women | Women\u2019s Christian College (WCC) |\n|---|---|---|\n| Type | Aut..."
+  },
+  {
+    "question": "What is BIHER known for?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**Bharath Institute of Higher Education and Research (BIHER)** is known for being a **multidisciplin..."
+  },
+  {
+    "question": "Give me a quick summary of Madras Christian College.",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**Madras Christian College (MCC) \u2013 Quick Summary**\n\n- **Location:** Madras Christian College (MCC)  ..."
+  },
+  {
+    "question": "Are there any deemed universities in this list?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**Yes.**  \n\nBoth institutions listed are classified as **Deemed\u2011to\u2011be Universities**:\n\n| College | C..."
+  },
+  {
+    "question": "Which college has NAAC A++ accreditation?",
+    "verified": true,
+    "type": "ranking",
+    "text": "\ud83c\udfc6 **Verified College Rankings** _(based on placement, fees, packages)_\n\n**1. SSN College of Engineer..."
+  },
+  {
+    "question": "Is PERI College fully self-financed?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**Yes.** According to the provided information, PERI College of Arts and Science is identified as a ..."
+  },
+  {
+    "question": "Which colleges are affiliated with Madras University?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**Madras Christian College (MCC)** \u2013 listed as an autonomous college affiliated with the University ..."
+  },
+  {
+    "question": "What does HITS stand for?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**HITS** stands for **Hindustan Institute of Technology and Science**...."
+  },
+  {
+    "question": "Is Guru Nanak College co-educational?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**Yes.** Guru\u202fNanak College is described as an **autonomous, co\u2011educational, Arts & Science College*..."
+  },
+  {
+    "question": "What are the nearest arts and science colleges in Tambaram?",
+    "verified": true,
+    "type": "location_search",
+    "text": "\ud83d\udccd **Colleges found in/near Tambaram**:\n\n- **Madras Christian College (MCC)** (Tambaram East, Chennai..."
+  },
+  {
+    "question": "Is WCC near Nungambakkam?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**Yes.**  \nWomen\u2019s Christian College (WCC) is located on College Road in Nungambakkam, Chennai, Tami..."
+  },
+  {
+    "question": "Which engineering colleges are located on OMR?",
+    "verified": true,
+    "type": "course_availability_list",
+    "text": "\u2705 **Colleges offering ENGINEERING**:\n\n- **Bharath Institute of Higher Education and Research (BIHER)..."
+  },
+  {
+    "question": "Where exactly is SSN located?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**Location:** Kalavakkam (OMR), Chennai, Tamil Nadu, India\u3010Source\u202f2\u3011...."
+  },
+  {
+    "question": "Are there good colleges near Velachery?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "I'm sorry, I don't have verified information to answer that...."
+  },
+  {
+    "question": "List colleges in Egmore.",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**Colleges in Egmore (based on provided context)**  \n\n- Ethiraj College for Women \u2013 Egmore, Chennai ..."
+  },
+  {
+    "question": "Show colleges in Chennai 600059.",
+    "verified": true,
+    "type": "location_search",
+    "text": "\ud83d\udccd **Colleges found in/near Chennai**:\n\n- **Sri Balaji Arts & Science College** (Chennai, Tamil Nadu,..."
+  },
+  {
+    "question": "Is HITS located in Padur or Kelambakkam?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**Hindustan Institute of Technology and Science (HITS)** is situated in **Padur, Kelambakkam, Chenna..."
+  },
+  {
+    "question": "Is BIHER a good option if I live in Selaiyur?",
+    "verified": true,
+    "type": "location_search",
+    "text": "\ud83d\udccd **Colleges found in/near Selaiyur**:\n\n- **Bharath Institute of Higher Education and Research (BIHE..."
+  },
+  {
+    "question": "Are Loyola and WCC in the same area?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "I\u2019m sorry, I don\u2019t have verified information to answer that...."
+  },
+  {
+    "question": "Which is better for B.A Economics, Loyola or MCC?",
+    "verified": true,
+    "type": "comparison",
+    "text": "| Feature (ECONOMICS) | Loyola College | Madras Christian College (MCC) |\n|---|---|---|\n| Type | Aut..."
+  },
+  {
+    "question": "Compare B.Tech placements at HITS and SSN.",
+    "verified": true,
+    "type": "comparison",
+    "text": "| Feature (B.TECH) | SSN College of Engineering | Hindustan Institute of Technology and Science (HIT..."
+  },
+  {
+    "question": "Which is older, Ethiraj or WCC?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "I'm sorry, I don't have verified information to answer that...."
+  },
+  {
+    "question": "Which is better for BBA, PERI or Guru Nanak College?",
+    "verified": true,
+    "type": "comparison",
+    "text": "| Feature | PERI College of Arts and Science | Guru Nanak College |\n|---|---|---|\n| Type | Self-Fina..."
+  },
+  {
+    "question": "What is the fee difference between SSN Government quota and Management quota?",
+    "verified": true,
+    "type": "direct_database_response_multi",
+    "text": "\ud83d\udcb0 **Fee structure for SSN College of Engineering** typically varies by course (e.g., CSE, IT, ECE, B..."
+  },
+  {
+    "question": "Which has better campus life, MCC or HITS?",
+    "verified": true,
+    "type": "comparison",
+    "text": "| Feature | Madras Christian College (MCC) | Hindustan Institute of Technology and Science (HITS) |\n..."
+  },
+  {
+    "question": "Is MBA at BIHER cheaper than Ethiraj?",
+    "verified": true,
+    "type": "ranking",
+    "text": "\ud83c\udfc6 **Verified MBA College Rankings** _(based on placement, fees, packages)_\n\n**1. Guru Nanak College*..."
+  },
+  {
+    "question": "Which has more student clubs, SSN or Loyola?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "I\u2019m sorry, I don\u2019t have verified information to answer that...."
+  },
+  {
+    "question": "Compare NAAC accreditation of autonomous colleges.",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**NAAC Accreditation Comparison (as per the provided data)**  \n\n| College | NAAC Grade |\n|--------|-..."
+  },
+  {
+    "question": "Is it harder to get into SSN or HITS for CSE?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "I'm sorry, I don't have verified information to answer that...."
+  },
+  {
+    "question": "What is the average package at SSN for IT jobs?",
+    "verified": true,
+    "type": "direct_database_response_multi",
+    "text": "\ud83d\udcbc **Placement Statistics for SSN College of Engineering**:\n90\u201395% placement rate, Top recruiters: Am..."
+  },
+  {
+    "question": "Do Amazon or Microsoft recruit from these colleges?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**Recruitment from the listed colleges (based on the provided context)**  \n\n| College | Amazon | Mic..."
+  },
+  {
+    "question": "What is the highest salary package at HITS?",
+    "verified": true,
+    "type": "ranking",
+    "text": "\ud83c\udfc6 **Verified College Rankings** _(based on placement, fees, packages)_\n\n**1. SSN College of Engineer..."
+  },
+  {
+    "question": "Is Ethiraj's placement rate above 85%?",
+    "verified": true,
+    "type": "direct_database_response_multi",
+    "text": "\ud83d\udcbc **Placement Statistics for Ethiraj College for Women**:\n75\u201390% placement (varies by department)..."
+  },
+  {
+    "question": "Which engineering college has 90%+ placements?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**SSN College of Engineering** \u2013 reports a placement rate of **90\u201395%**\u3010Source 1\u3011...."
+  },
+  {
+    "question": "Do Zoho and Cognizant recruit from BIHER?",
+    "verified": true,
+    "type": "direct_database_response_multi",
+    "text": "\ud83d\udcbc **Placement Statistics for Bharath Institute of Higher Education and Research (BIHER)**:\n80\u201390% Pl..."
+  },
+  {
+    "question": "What jobs do students get after studying at WCC?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**Typical employment sectors for Women\u2019s Christian College (WCC) graduates**\n\n- **Information Techno..."
+  },
+  {
+    "question": "Is the MBA average package at Guru Nanak better than B.Com?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "I\u2019m sorry, I don\u2019t have verified information to answer that...."
+  },
+  {
+    "question": "Does Sri Balaji College have good placements?",
+    "verified": true,
+    "type": "direct_database_response_multi",
+    "text": "\ud83d\udcbc **Placement Statistics for Sri Balaji Arts & Science College**:\n60\u201375% (varies by department)..."
+  },
+  {
+    "question": "Which college has the best placements for B.Tech CSE?",
+    "verified": true,
+    "type": "ranking",
+    "text": "\ud83c\udfc6 **Verified B.TECH College Rankings** _(based on placement, fees, packages)_\n\n**1. SSN College of E..."
+  },
+  {
+    "question": "Does MCC have good hostel facilities?",
+    "verified": true,
+    "type": "direct_database_response_multi",
+    "text": "\ud83c\udfe1 **Hostel Information for Madras Christian College (MCC)**:\nYes (Separate for Boys & Girls)..."
+  },
+  {
+    "question": "Are there separate hostels for girls at SSN?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**Yes.** SSN College of Engineering provides separate hostels for girls. (Source\u202f1)..."
+  },
+  {
+    "question": "Does HITS have an active coding or AI club?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**Yes.** Hindustan Institute of Technology and Science (HITS) lists both a **Coding Club** and an **..."
+  },
+  {
+    "question": "Which college has the best cultural festivals?",
+    "verified": true,
+    "type": "ranking",
+    "text": "\ud83c\udfc6 **Verified College Rankings** _(based on placement, fees, packages)_\n\n**1. SSN College of Engineer..."
+  },
+  {
+    "question": "Is there NCC or NSS at Guru Nanak College?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**Yes.** Guru Nanak College has both **NCC** (National Cadet Corps) and **NSS** (National Service Sc..."
+  },
+  {
+    "question": "Does Loyola provide hostel facilities?",
+    "verified": true,
+    "type": "direct_database_response_multi",
+    "text": "\ud83c\udfe1 **Hostel Information for Loyola College**:\nYes (Limited seats for outstation students)..."
+  },
+  {
+    "question": "Which college has an Entrepreneurship Cell?",
+    "verified": true,
+    "type": "ranking",
+    "text": "\ud83c\udfc6 **Verified College Rankings** _(based on placement, fees, packages)_\n\n**1. SSN College of Engineer..."
+  },
+  {
+    "question": "Does WCC have a strong alumni network?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**Yes.** According to the provided information, Women\u2019s Christian College (WCC) is \u201cconsistently rec..."
+  },
+  {
+    "question": "Does BIHER have smart classrooms and good Wi-Fi?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "I'm sorry, I don't have verified information to answer that...."
+  },
+  {
+    "question": "Which college is known for being strict?",
+    "verified": true,
+    "type": "ranking",
+    "text": "\ud83c\udfc6 **Verified College Rankings** _(based on placement, fees, packages)_\n\n**1. SSN College of Engineer..."
+  },
+  {
+    "question": "How do I get admission into SSN?",
+    "verified": true,
+    "type": "direct_database_response_multi",
+    "text": "\ud83d\udcdd **Admission Details & Eligibility for SSN College of Engineering**:\nTNEA Counselling (Government Q..."
+  },
+  {
+    "question": "Does Ethiraj have an entrance exam?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "I\u2019m sorry, I don\u2019t have verified information to answer that...."
+  },
+  {
+    "question": "Is lateral entry available at SSN?",
+    "verified": true,
+    "type": "course_details",
+    "text": "\ud83c\udfdb\ufe0f **SSN College of Engineering** - Information\n\ud83d\udccd **Location**: Kalavakkam (OMR), Chennai, Tamil Nad..."
+  },
+  {
+    "question": "How do PG admissions work at MCC?",
+    "verified": true,
+    "type": "direct_database_response_multi",
+    "text": "\ud83d\udcdd **Admission Details & Eligibility for Madras Christian College (MCC)**:\nUG: Merit-Based; PG & Ph.D..."
+  },
+  {
+    "question": "Can I get direct admission into PERI College?",
+    "verified": true,
+    "type": "direct_database_response_multi",
+    "text": "\ud83d\udcdd **Admission Details & Eligibility for PERI College of Arts and Science**:\nMerit-Based, Direct Admi..."
+  },
+  {
+    "question": "What is the admission mode for B.Arch at HITS?",
+    "verified": true,
+    "type": "direct_database_response_multi",
+    "text": "\ud83d\udcdd **Admission Details & Eligibility for Hindustan Institute of Technology and Science (HITS)**:\nUniv..."
+  },
+  {
+    "question": "Does BIHER have a management quota?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "I'm sorry, I don't have verified information to answer that...."
+  },
+  {
+    "question": "Do I need to write JEE to get into HITS?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "**Answer:**  \nNo, writing the JEE is not the only way to gain admission to Hindustan Institute of Te..."
+  },
+  {
+    "question": "Is admission at Guru Nanak based on Tamil Nadu government rules?",
+    "verified": true,
+    "type": "direct_database_response_multi",
+    "text": "\ud83d\udcdd **Admission Details & Eligibility for Guru Nanak College**:\nMerit-based (as per Tamil Nadu Govt no..."
+  },
+  {
+    "question": "Is it harder to get into Loyola Shift 1 than Shift 2?",
+    "verified": true,
+    "type": "verified_generation",
+    "text": "I'm sorry, I don't have verified information to answer that...."
+  }
+]

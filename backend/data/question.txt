@@ -1,0 +1,1825 @@
+Category 1: College Profile & Discovery (30 Questions)
+Targeting the CollegeProfile model.
+
+Which colleges in this list are Deemed-to-be Universities?
+
+List all colleges located in Tambaram.
+
+Which college was established first?
+
+Show me the "About" section for Loyola College.
+
+Which colleges have a NAAC A++ accreditation?
+
+Give me the full address of HITS.
+
+List colleges that are Autonomous.
+
+Which colleges were established before 1950?
+
+Is Ethiraj College affiliated with the University of Madras?
+
+What is the campus size of Hindustan Institute of Technology?
+
+Which colleges are purely Self-Financed?
+
+List all colleges that mention IBM collaborations.
+
+Which colleges have an Entrepreneurship Cell?
+
+Does MCC have a Photography Club?
+
+List the student clubs available at BIHER.
+
+Which college mentions a GARC or IATA collaboration?
+
+Are there any Women’s Colleges in this dataset?
+
+Which college is located in Mannivakkam?
+
+Show me the accreditation status of PERI College.
+
+Which college has the most student clubs listed?
+
+Find colleges with a Smart Classroom facility.
+
+Is there a Medical Center inside the HITS campus?
+
+Which college mentions an Eco Club?
+
+List the colleges that offer Research/Ph.D. programs.
+
+Does Sri Balaji Arts & Science have a hostel?
+
+Which college is located in Nungambakkam?
+
+List colleges approved by the UGC.
+
+Which college mentions a Science Forum club?
+
+Does Loyola provide limited hostel seats for outstation students?
+
+Find colleges with a Digital Library access.
+
+🎓 Category 2: Course & Fee Analysis (35 Questions)
+Targeting the CourseDetails model with ForeignKey filters.
+
+What is the annual fee for B.Tech CSE at HITS?
+
+List all UG courses available at Loyola Shift II.
+
+Which college offers the cheapest B.Com course?
+
+What is the fee for M.Sc Data Science at Loyola?
+
+List all courses in the Engineering stream across all colleges.
+
+Which colleges offer a BCA program?
+
+What is the duration of a B.Arch course?
+
+Find all courses with fees between ₹50,000 and ₹1,00,000.
+
+List all Postgraduate (PG) programs at Ethiraj College.
+
+Which college offers B.Sc Aviation Science?
+
+What is the specialization for B.Tech at BIHER costing ₹2,50,000?
+
+List all Shift I courses at Loyola.
+
+Are there any Pharmacy courses in the dataset?
+
+Which college offers B.Sc Psychology?
+
+What is the fee for Ph.D. in Law at HITS?
+
+List all courses under the Vocational stream.
+
+Which college offers B.Sc Visual Communication?
+
+Find all Doctorate programs with a duration of 3-5 years.
+
+What are the fees for B.Tech Robotics & AI?
+
+List all Commerce stream courses in MCC [Aided].
+
+Which college has a B.Sc in Digital Forensics?
+
+What is the specialization of the ₹2,25,000 MBA at HITS?
+
+List all Self-Financed courses at MCC.
+
+Which college offers Clinical Nutrition & Dietetics?
+
+What is the fee for M.Voc 3D Animation?
+
+Find courses related to Microbiology.
+
+List all Law courses in the dataset.
+
+What is the duration of a Pharm D program?
+
+Which college offers B.Sc Hospitality & Tourism?
+
+Show me all Aeronautical Engineering courses.
+
+What are the fees for MCA at BIHER?
+
+List all Social Work (MSW) programs.
+
+Which college offers B.Com Professional Accounting?
+
+Find all courses under the Architecture stream.
+
+What is the specialization for M.Tech at BIHER costing ₹1,40,000?
+
+💼 Category 3: Placements & Stats (15 Questions)
+Targeting placement columns and average packages.
+
+Which college has an average package of ₹5.8 LPA?
+
+What is the highest package offered at HITS?
+
+List colleges with a placement percentage above 85%.
+
+Which college has TCS and Infosys as top recruiters?
+
+What is the average package range for Loyola College?
+
+Which college has the lowest average package?
+
+List recruiters for PERI College.
+
+Does BIHER have a higher average package than MCC?
+
+Which college has a 95% placement rate?
+
+What is the average package for Sri Balaji Arts & Science?
+
+Name the top recruiters for Ethiraj College.
+
+Which college mentions Cognizant and Accenture as recruiters?
+
+What is the placement percentage for Loyola?
+
+Which college provides the best average package for Engineering?
+
+List colleges that have HCL on their recruiter list.
+
+📊 Category 4: Comparison & Logic (20 Questions)
+Requires comparing two or more objects.
+
+Compare the B.Tech CSE fees of HITS and BIHER.
+
+Which is older: MCC or Loyola?
+
+Compare the BCA fees between Loyola Shift II and MCC Self-Finance.
+
+Which college has more specializations in B.Tech?
+
+Which college is cheaper for MBA: HITS or BIHER?
+
+Compare the placement rate of HITS and Loyola.
+
+Which college has the highest Ph.D. fees?
+
+Compare the B.Com fees of Ethiraj and Loyola Shift I.
+
+Which college offers more Science stream courses?
+
+Which is more expensive: B.Arch at HITS or B.Arch at BIHER?
+
+Compare the Admission Mode for HITS vs Ethiraj.
+
+Which college has a larger campus?
+
+Compare the Student Clubs of MCC and HITS.
+
+Which college offers more Aided programs?
+
+Compare the Average Package of HITS vs BIHER.
+
+Which college has a better NAAC grade: PERI or MCC?
+
+Compare the hostel availability across all 8 colleges.
+
+Which college has the most specialized B.Sc programs?
+
+Is MCA at Loyola more expensive than at HITS?
+
+Compare the recruiter lists of all Autonomous colleges.
+
+🎯 Category 5: Practical Admissions (10 Questions)
+Targeting "how to get in" logic.
+
+Which college requires the JEE exam for admission?
+
+Is admission to Ethiraj purely Merit-Based?
+
+Which college uses an Interview for PG admissions?
+
+How do I get into the MBA program at BIHER?
+
+Does HITS have a Management Quota?
+
+Which college offers Direct Admission?
+
+What is the admission mode for B.Arch in this dataset?
+
+Which college requires a University Entrance Exam?
+
+Is Counseling mentioned as an admission mode for Loyola?
+
+Find colleges that offer Merit-Based UG admissions.
+
+What is the fee for MBA at HITS?
+
+How much does B.Com Honours cost at Women's Christian College?
+
+What are the annual fees for Aided B.A. Economics at Guru Nanak College?
+
+Fees for Pharm D at BIHER?
+
+How much is the M.Sc Data Science at Loyola Shift II?
+
+What is the fee for B.Sc Visual Communication at MCC Self-Financed?
+
+Does Sri Balaji College offer courses under ₹50,000?
+
+What is the fee for B.Tech CSE under Management Quota at SSN?
+
+How much does the B.Tech CSE cost under Govt Quota at SSN?
+
+What is the fee for B.A. English at Ethiraj College?
+
+How much is the fee for BBA at PERI College?
+
+What are the fees for M.Tech at BIHER?
+
+How much is the MCA program at Loyola Shift II?
+
+What is the fee for B.Sc Psychology at HITS?
+
+Tell me the fee for B.Sc Computer Science at WCC.
+
+How much does MSW cost at MCC?
+
+What is the Ph.D. Engineering fee at HITS?
+
+Fees for B.Sc Advanced Zoology at Loyola Shift I?
+
+How much is the LL.B program at HITS?
+
+What is the cost of B.Sc Allied Health Sciences at HITS?
+
+What are the fees for Integrated M.Tech at SSN?
+
+How much does B.Com General cost at Sri Balaji Arts & Science?
+
+Fee for B.Sc Artificial Intelligence at PERI College?
+
+How much is the M.Com fee at Ethiraj?
+
+What is the fee for B.Voc 3D Animation at Loyola?
+
+Cost of Ph.D. Microbiology at MCC?
+
+How much is B.A. Defence Studies at Guru Nanak College?
+
+Fee for B.Sc Data Analytics at GNC SFS-I?
+
+What is the fee for M.E. VLSI Design at SSN?
+
+How much does the D.Pharm course cost at BIHER?
+
+What is the fee for B.Arch at HITS?
+
+Fee for M.Sc Clinical Embryology at BIHER?
+
+How much is the BCA fee at PERI College?
+
+Fee for B.Sc Chemistry at Ethiraj?
+
+How much is M.A. HRM at WCC?
+
+Cost of B.Com Accounting & Finance at WCC?
+
+What is the fee for M.Sc Data Science at WCC?
+
+How much is B.Sc Plant Biology at GNC Aided?
+
+Fee for B.Com Marketing Management at GNC?
+
+How much is M.E. Communication Systems at SSN?
+
+What is the fee for BBA LL.B at BIHER?
+
+Cost of BPT at HITS?
+
+Fee for B.Sc Nursing at HITS?
+
+How much is the MSW fee at Ethiraj?
+
+Fee for M.Sc Mathematics at Loyola Shift I?
+
+How much is B.A. French Literature at Loyola?
+
+Cost of M.Voc Digital Journalism at Loyola?
+
+Fee for B.Sc Geography, Tourism & Travel at MCC?
+
+How much is B.C.A at Sri Balaji?
+
+What is the MBA fee at Guru Nanak College?
+
+Fee for Ph.D. in Law at BIHER?
+
+How much is B.Sc Data Science at PERI?
+
+Fee for B.A. Criminology at PERI?
+
+Cost of M.Sc Microbiology at PERI?
+
+How much is B.Sc Physics at MCC Aided?
+
+Fee for M.A. Tamil at MCC Aided?
+
+Cost of B.Com Professional Accounting at MCC?
+
+What is the fee for B.B.A at MCC Self-Financed?
+
+How much is B.A. History at Ethiraj?
+
+Fee for B.Sc Clinical Nutrition at Ethiraj?
+
+What is the MCA fee at Ethiraj?
+
+How much is Ph.D. Economics at Loyola?
+
+Cost of M.A. Social Work at Loyola Shift II?
+
+Fee for B.Sc Statistics at Loyola Shift I?
+
+How much is M.Sc Zoology at GNC SFS-I?
+
+Fee for B.Com Corporate Secretaryship at GNC Aided?
+
+What is the B.E. Mechanical Mgmt Quota fee at SSN?
+
+Cost of M.E. Manufacturing Engineering at SSN?
+
+How much is B.Tech Chemical Engineering Govt Quota at SSN?
+
+Fee for B.E. Biomedical Mgmt Quota at SSN?
+
+What is the Ph.D. fee at Sri Balaji College? (Trick question for AI: Sri Balaji doesn't list Ph.D.)
+
+How much is B.Com CA at Sri Balaji?
+
+Fee for B.Sc CS with DS at Sri Balaji?
+
+What is the MCA fee at HITS?
+
+Cost of B.Optom at HITS?
+
+Fee for B.Com Honours at BIHER?
+
+How much is B.A. English at BIHER?
+
+What is the MBA fee at BIHER?
+
+Cost of B.Arch at BIHER?
+
+Fee for LL.M at HITS?
+
+How much is B.Sc Criminology at HITS?
+
+Fee for M.Sc Applied Psychology at Ethiraj?
+
+What is the MBA fee at Ethiraj?
+
+Cost of Ph.D. Commerce at Ethiraj?
+
+How much is B.Sc Mathematics at WCC?
+
+Fee for M.A. Communication at WCC?
+
+What is the BCA fee at WCC?
+
+How much is B.Sc Biotechnology at GNC SFS-I?
+
+Fee for B.Com Bank Management at GNC SFS-II?
+
+What is the M.Sc Chemistry fee at GNC Aided?
+
+How much is B.E. Civil Govt Quota at SSN?
+
+Fee for M.Tech Energy Engineering at SSN?
+
+What is the M.Tech Environmental Science fee at SSN?
+
+Cost of B.Tech Information Technology Mgmt Quota at SSN?
+
+Fee for B.A. Journalism at MCC?
+
+How much is M.Sc Applied Microbiology at MCC?
+
+Fee for M.A. Public Administration at MCC?
+
+What is the B.Sc Aviation Science fee at HITS?
+
+Cost of B.Des at HITS?
+Can you tell me about SSN College of Engineering?
+
+Give me a brief overview of Ethiraj College for Women.
+
+When was Madras Christian College established?
+
+Is BIHER a deemed university or an autonomous college?
+
+What is the NAAC grade of Guru Nanak College?
+
+Is Loyola College co-educational?
+
+Who founded SSN College of Engineering?
+
+Tell me about HITS.
+
+What type of college is PERI College of Arts and Science?
+
+When was Women's Christian College established?
+
+What is the accreditation status of Sri Balaji Arts & Science?
+
+Is Ethiraj College affiliated with the University of Madras?
+
+What is the type of institution for BIHER?
+
+Give me the About section for Loyola College.
+
+Tell me about Guru Nanak College.
+
+Who established Guru Nanak College?
+
+What year was SSN College established?
+
+What year did BIHER get university status?
+
+What is the NAAC grade of WCC?
+
+Is MCC an autonomous college?
+
+What is the NAAC grade for HITS?
+
+Is HITS approved by UGC?
+
+Does SSN have NBA accredited programs?
+
+What is the established year of Ethiraj College?
+
+Tell me about the reputation of Loyola College.
+
+Is PERI College government-aided?
+
+When was the Self-Financed stream introduced at WCC?
+
+What type of college is Sri Balaji Arts & Science?
+
+Does MCC have NAAC A++ accreditation?
+
+What is the accreditation of Guru Nanak College?
+
+Is SSN an autonomous private college?
+
+Tell me about the ranking of HITS.
+
+What is the reputation of BIHER?
+
+Which university is Loyola College affiliated with?
+
+Which university is WCC affiliated with?
+
+Is Ethiraj College for Women autonomous?
+
+Describe the focus of PERI College.
+
+What is the established year of PERI College?
+
+What is the reputation of SSN College?
+
+Does HITS have strong industry collaboration?
+
+What is the NAAC grade of Ethiraj?
+
+Is Guru Nanak College co-educational?
+
+Which university is SSN affiliated with?
+
+What type of programs does MCC offer?
+
+Tell me about the alumni network of WCC.
+
+Is Loyola considered a top-ranked arts and science college?
+
+What type of college is HITS?
+
+Describe Sri Balaji Arts & Science College.
+
+Give me a summary of BIHER.
+
+What is the established year of HITS?
+
+What is the established year of MCC?
+
+What is the established year of BIHER?
+
+What is the established year of Loyola?
+
+What is the established year of GNC?
+
+Tell me about the ranking of MCC.
+
+Does Ethiraj offer doctoral programs?
+
+Does WCC offer M.Phil programs?
+
+What is the NAAC grade of PERI?
+
+Are the programs at SSN approved by AICTE/NBA?
+
+Is BIHER multidisciplinary?
+
+What does BIHER stand for?
+
+What does HITS stand for?
+
+What does MCC stand for?
+
+What does WCC stand for?
+
+What does GNC stand for?
+
+Is Sri Balaji an autonomous college?
+
+Does Loyola admit women?
+
+Did Loyola start as a men's college?
+
+What is the NAAC grade of BIHER?
+
+What is the NAAC grade of MCC?
+
+Does HITS have NBA accredited programs?
+
+Tell me about the industry connections of SSN.
+
+What is the focus of WCC's programs?
+
+Describe the reputation of Ethiraj College.
+
+Is PERI an emerging college?
+
+Describe the reputation of Sri Balaji College.
+
+Tell me about the discipline at Guru Nanak College.
+
+What is the mission of SSN according to its About section?
+
+Does HITS offer IBM collaboration courses?
+
+Is WCC known for its research initiatives?
+
+Is Loyola a premier college in Chennai?
+
+Does BIHER have a strong research focus?
+
+Is Ethiraj known for its placement record?
+
+Is MCC one of India's oldest institutions?
+
+Tell me about the Dakshin Bharat Sikh Sabha.
+
+Who is Shiv Nadar?
+
+What is the focus of PERI's programs?
+
+Are there any deemed universities in this list?
+
+Name all the autonomous colleges in this dataset.
+
+Name all the affiliated colleges in this dataset.
+
+Name the private engineering colleges in this dataset.
+
+Are there any purely women's colleges?
+
+Are there any purely men's colleges left?
+
+What is the highest NAAC grade achieved by colleges in this list?
+
+Do any colleges have NAAC B+?
+
+Do any colleges not have NAAC listed?
+
+Which colleges are affiliated with Anna University?
+
+Which colleges are affiliated with the University of Madras?
+
+Is SSN an arts and science college?
+
+Is HITS an arts and science college?
+List all colleges located in Nungambakkam.
+
+Which colleges are in the Tambaram area?
+
+Show me all colleges in Kalavakkam.
+
+Where is Ethiraj College located?
+
+List the engineering colleges on OMR.
+
+Colleges near Selaiyur.
+
+Where is HITS located?
+
+Where is MCC located?
+
+Where is PERI College located?
+
+Where is BIHER located?
+
+Where is Sri Balaji Arts & Science located?
+
+Where is Loyola College located?
+
+Where is WCC located?
+
+Where is Guru Nanak College located?
+
+Where is SSN College of Engineering located?
+
+Which college is located in Padur?
+
+Which college is located in Kelambakkam?
+
+Find colleges in Tambaram East.
+
+Find colleges in Mannivakkam.
+
+Find colleges in West Tambaram.
+
+Which college is in Egmore?
+
+Which college is in Velachery?
+
+List colleges on College Road.
+
+Are there any colleges in Chennai - 600059?
+
+Are there any colleges in Chennai - 600048?
+
+Are there any colleges in Chennai - 600073?
+
+Are there any colleges in Chennai - 600008?
+
+Are there any colleges in Chennai - 600034?
+
+Which colleges are in Tamil Nadu?
+
+Are all these colleges in India?
+
+Is HITS in Chennai?
+
+Is SSN in Chennai?
+
+Find colleges located near the IT corridor (OMR).
+
+Which colleges are located in central Chennai (Nungambakkam/Egmore)?
+
+Which colleges are located in South Chennai (Velachery/Tambaram)?
+
+What is the pincode for Loyola College?
+
+What is the pincode for Ethiraj College?
+
+What is the pincode for BIHER?
+
+What is the pincode for PERI College?
+
+What is the pincode for MCC?
+
+Give me the full address of HITS.
+
+Give me the full address of SSN.
+
+Give me the full address of WCC.
+
+Give me the full address of GNC.
+
+Give me the full address of Sri Balaji.
+
+Is Loyola College on College Road?
+
+Is WCC on College Road?
+
+Does SSN have a campus size listed?
+
+What is the campus size of HITS?
+
+Which college is located closest to Selaiyur?
+
+Which college is located closest to Padur?
+
+List colleges in Chennai offering B.Tech.
+
+List colleges in Nungambakkam offering B.Com.
+
+List colleges in Tambaram offering BCA.
+
+List colleges in Egmore offering MBA.
+
+List colleges in Velachery offering MCA.
+
+List colleges in Kalavakkam offering M.E.
+
+Is there a women's college in Nungambakkam?
+
+Is there a women's college in Egmore?
+
+Are there any deemed universities in Tambaram?
+
+Are there any deemed universities in Selaiyur?
+
+Which arts and science colleges are in Nungambakkam?
+
+Which engineering colleges are in OMR?
+
+Find colleges in Chennai with NAAC A++.
+
+Find colleges in Chennai with NBA accreditation.
+
+Are there any colleges in Mannivakkam offering Data Science?
+
+Are there any colleges in Velachery offering Biotechnology?
+
+Which college in Nungambakkam offers French Literature?
+
+Which college in Egmore offers Clinical Nutrition?
+
+Which college in Padur offers Aeronautical Engineering?
+
+Which college in Selaiyur offers Pharm D?
+
+Which college in Kalavakkam offers Medical Electronics?
+
+Find a college in Tambaram East offering Digital Forensics.
+
+Find a college in Chennai offering 3D Animation.
+
+Find a college in Chennai offering Defence & Strategic Studies.
+
+Is MCC the only college in Tambaram?
+
+Is PERI the only college in West Tambaram?
+
+Are Loyola and WCC in the same locality?
+
+How many colleges in this dataset are located in Chennai?
+
+Do any of these colleges have campuses outside Tamil Nadu?
+
+Search for colleges in "Kalavakkam".
+
+Search for colleges in "Padur".
+
+Search for colleges in "Selaiyur".
+
+Search for colleges in "Mannivakkam".
+
+Search for colleges in "Velachery".
+
+Search for colleges in "Egmore".
+
+Search for colleges in "Tambaram".
+
+Search for colleges in "Nungambakkam".
+
+Which location has the most colleges in this dataset?
+
+What is the exact location string for SSN?
+
+What is the exact location string for HITS?
+
+What is the exact location string for MCC?
+
+What is the exact location string for PERI?
+
+What is the exact location string for BIHER?
+
+What is the exact location string for Ethiraj?
+
+What is the exact location string for Loyola?
+
+What is the exact location string for WCC?
+
+What is the exact location string for GNC?
+
+What is the exact location string for Sri Balaji?
+
+Which college's location includes "OMR"?
+Which is cheaper for B.Com: Ethiraj or Guru Nanak College?
+
+Compare the average package of SSN and HITS.
+
+Which college has a better NAAC accreditation, PERI or MCC?
+
+Compare the MBA fees at BIHER and HITS.
+
+Which college is older, Loyola or Women's Christian College?
+
+Difference between SSN Govt Quota and Management Quota fees.
+
+Compare the BCA fees at Loyola Shift II and MCC Self-Financed.
+
+Which is more expensive: B.Arch at HITS or B.Arch at BIHER?
+
+Compare the placement rate of HITS and Loyola.
+
+Which college has the highest Ph.D. fees between MCC and HITS?
+
+Compare the B.Com fees of Ethiraj and Loyola Shift I.
+
+Which college is older, MCC or SSN?
+
+Compare the hostel availability of PERI and Sri Balaji.
+
+Which college has a higher placement rate, SSN or MCC?
+
+Compare the highest packages of HITS and SSN.
+
+Which college offers more B.Tech specializations, HITS or BIHER?
+
+Compare the admission modes of SSN and Loyola.
+
+Which college has a larger campus, HITS or SSN? (Trick: SSN campus size not in data)
+
+Compare the student clubs of MCC and HITS.
+
+Which college offers more Aided programs, MCC or GNC?
+
+Compare the Average Package of HITS vs BIHER.
+
+Which college is cheaper for MCA, Loyola or Ethiraj?
+
+Compare the BBA fees at PERI and GNC.
+
+Which is more expensive, M.Sc Data Science at Loyola or WCC?
+
+Compare the engineering fees at HITS and SSN Govt Quota.
+
+Compare the engineering fees at HITS and SSN Mgmt Quota.
+
+Which college is older, Ethiraj or WCC?
+
+Compare the NAAC grades of Loyola and GNC.
+
+Which college has a higher average package, Sri Balaji or GNC?
+
+Compare the MBA fees at Ethiraj and GNC.
+
+Which college is cheaper for B.Sc Computer Science, PERI or Sri Balaji?
+
+Compare the MSW fees at MCC and Loyola.
+
+Which college offers more PG Arts courses, Loyola or Ethiraj?
+
+Compare the B.Sc Visual Communication fees at MCC, Loyola, and WCC.
+
+Which college is older, BIHER or HITS?
+
+Compare the B.Sc Psychology fees at HITS and PERI.
+
+Which college is cheaper for B.Com Honours, WCC or GNC?
+
+Compare the Ph.D. fees at Ethiraj and Loyola.
+
+Which college has a better average package, WCC or Ethiraj?
+
+Compare the admission mode for B.E. at SSN and HITS.
+
+Which college is more expensive for M.Com, MCC or Ethiraj?
+
+Compare the B.A. English fees at MCC Aided and GNC Aided.
+
+Which college has more commerce specializations, WCC or Loyola?
+
+Compare the B.Sc Mathematics fees at Loyola Shift I and GNC Aided.
+
+Which college is older, GNC or PERI?
+
+Compare the BCA fees at HITS and BIHER.
+
+Which is more expensive, LL.B at HITS or BIHER?
+
+Compare the B.Sc Artificial Intelligence fees at HITS and PERI.
+
+Which college has a higher placement rate, Ethiraj or WCC?
+
+Compare the top recruiters for HITS and SSN.
+
+Which college is cheaper for M.Sc Physics, MCC Aided or Ethiraj?
+
+Compare the B.Voc fees at Loyola with B.Des at HITS.
+
+Which college offers more Ph.D. programs, Loyola or Ethiraj?
+
+Compare the MSW fees at WCC and GNC.
+
+Which college is older, Sri Balaji or PERI?
+
+Compare the M.A. Economics fees at Loyola Shift I and GNC Aided.
+
+Which college is more expensive for BBA, HITS or BIHER?
+
+Compare the M.Tech fees at HITS and BIHER.
+
+Which college has a higher average package, BIHER or SSN?
+
+Compare the B.Com General fees across MCC, Loyola, and Ethiraj.
+
+Which college is cheaper for B.Sc CS, GNC SFS-II or PERI?
+
+Compare the M.Sc Chemistry fees at MCC Aided and GNC Aided.
+
+Which college offers more allied health programs, HITS or BIHER?
+
+Compare the B.A. History fees at MCC Aided and Ethiraj.
+
+Which college is older, HITS or GNC?
+
+Compare the MCA fees at BIHER and WCC.
+
+Which college is more expensive for B.Sc Microbiology, PERI or Ethiraj?
+
+Compare the B.Com Accounting & Finance fees at Loyola and GNC.
+
+Which college has a better NAAC grade, WCC or Ethiraj?
+
+Compare the B.A. Economics fees at Loyola Shift I and MCC Aided.
+
+Which college is cheaper for M.A. English, Loyola Shift I or MCC Aided?
+
+Compare the B.Sc Biotechnology fees at HITS and GNC SFS-I.
+
+Which college offers more law programs, HITS or BIHER?
+
+Compare the M.E. fees at SSN with M.Tech fees at HITS.
+
+Which college is older, BIHER or MCC?
+
+Compare the MBA fees at WCC and GNC.
+
+Which college is more expensive for B.Sc Data Science, PERI or WCC?
+
+Compare the M.Sc Zoology fees at Loyola Shift I and GNC SFS-I.
+
+Which college has a higher placement rate, GNC or Sri Balaji?
+
+Compare the B.Com CA fees at PERI and Sri Balaji.
+
+Which college is cheaper for M.Sc CS, BIHER or Loyola Shift II?
+
+Compare the BCA fees at PERI, Sri Balaji, and GNC.
+
+Which college offers more vocational programs, Loyola or WCC?
+
+Compare the B.A. Sociology fees at Loyola Shift I and GNC SFS-I.
+
+Which college is older, SSN or PERI?
+
+Compare the M.Sc Mathematics fees at Ethiraj and GNC SFS-I.
+
+Which college is more expensive for B.A. Political Science, MCC Aided or GNC SFS-I?
+
+Compare the M.Com fees at Loyola Shift I and GNC Aided.
+
+Which college has a better NAAC grade, HITS or BIHER?
+
+Compare the B.Sc Statistics fees at Loyola Shift I and MCC Aided.
+
+Which college is cheaper for M.A. HRM, Ethiraj or WCC?
+
+Compare the BBA Retail Management fee at GNC with BBA at Ethiraj.
+
+Which college offers more integrated programs, WCC or SSN?
+
+Compare the Ph.D. English fees at Loyola and Ethiraj.
+
+Which college is older, GNC or SSN?
+
+Compare the M.A. Social Work fees at Loyola Shift I and GNC SFS-I.
+
+Which college is more expensive for B.Sc Visual Comm, Loyola Shift II or MCC SFS?
+
+Compare the B.A. Tamil fees at Loyola Shift I and MCC Aided.
+
+Which college has a higher average package, Loyola or WCC?
+
+Compare the B.Com Corporate Secretaryship fees at Loyola Shift II and GNC Aided.
+List the women's colleges in this dataset.
+
+Show me colleges offering B.Arch.
+
+Top colleges for B.Sc Artificial Intelligence.
+
+Which colleges offer Law (LL.B) degrees?
+
+Find colleges with NAAC A++ accreditation.
+
+Colleges offering 5-year Integrated M.Tech.
+
+Show me all colleges offering Allied Health Sciences.
+
+List all colleges that offer Management as a stream.
+
+Show me all courses under the Science stream at Loyola College Shift II.
+
+Are there any Vocational courses available in this dataset?
+
+List all Postgraduate (PG) programs at Ethiraj College.
+
+Find all Doctorate programs with a duration of 3-5 years.
+
+List all Commerce stream courses in MCC [Aided].
+
+Show me all Aeronautical Engineering courses.
+
+List all Social Work (MSW) programs.
+
+Find all courses under the Architecture stream.
+
+Which colleges offer BCA programs?
+
+List colleges offering Pharmacy courses.
+
+Show me all B.Tech courses.
+
+Find colleges offering B.Sc Psychology.
+
+List colleges offering B.Sc Digital Forensics.
+
+Show me colleges offering Clinical Nutrition & Dietetics.
+
+Find colleges offering Microbiology programs.
+
+List colleges offering B.Sc Hospitality & Tourism.
+
+Show me all M.E. courses.
+
+Find colleges offering M.Tech Defense Technology.
+
+List colleges offering B.Des.
+
+Show me colleges offering BPT (Physiotherapy).
+
+Find colleges offering B.Optom.
+
+List colleges offering B.Sc Aviation Science.
+
+Show me colleges offering M.Sc Nanoscience.
+
+Find colleges offering B.A Economics.
+
+List colleges offering B.A English.
+
+Show me colleges offering B.A History.
+
+Find colleges offering B.A Tamil.
+
+List colleges offering B.A Journalism.
+
+Show me colleges offering B.A Corporate Economics.
+
+Find colleges offering M.A International Studies.
+
+List colleges offering B.Sc Physical Education.
+
+Show me colleges offering B.M.M Multimedia & Animation.
+
+Find colleges offering B.Voc Digital Journalism.
+
+List colleges offering M.Sc Food Chemistry & Processing.
+
+Show me colleges offering Ph.D. Entomology.
+
+Find colleges offering B.A Defence & Strategic Studies.
+
+List colleges offering B.Com Marketing Management.
+
+Show me colleges offering B.Com Bank Management.
+
+Find colleges offering M.Sc Clinical Embryology.
+
+List colleges offering M.E. Medical Electronics.
+
+Show me colleges offering M.E. VLSI Design.
+
+Find colleges offering Pharm D.
+
+List all Autonomous colleges.
+
+List all Deemed Universities.
+
+Find colleges with Shift I and Shift II.
+
+List colleges offering Aided and Self-Financed streams.
+
+Show me colleges with Government and Management Quotas.
+
+Find colleges with a Coding Club.
+
+List colleges with a Rotaract club.
+
+Show me colleges with an NSS club.
+
+Find colleges with an Entrepreneurship Cell.
+
+List colleges with a Women Empowerment Cell.
+
+Show me colleges with a Photography Club.
+
+Find colleges with an NCC club.
+
+List colleges with a Youth Red Cross club.
+
+Show me colleges with an IEEE club.
+
+Find colleges offering Lateral Entry for engineering.
+
+List colleges offering Merit-Based admission.
+
+Show me colleges offering Counseling admission.
+
+Find colleges offering Entrance Exam admission.
+
+List colleges with hostels for both boys and girls.
+
+Show me colleges with limited hostel seats.
+
+Find colleges with a placement rate above 90%.
+
+List colleges with a placement rate below 80%.
+
+Show me colleges with an average package above 5 LPA.
+
+Find colleges with an average package below 4 LPA.
+
+List courses with fees above 2 Lakhs.
+
+Show me courses with fees below 20,000.
+
+Find courses with a duration of 5 years.
+
+List courses with a duration of 4 years.
+
+Show me courses with a duration of 2 years.
+
+Find courses with a duration of 6 years.
+
+List UG courses.
+
+Show me PG courses.
+
+Find Diploma courses.
+
+List Ph.D. courses.
+
+Show me Integrated courses.
+
+Find colleges affiliated with Anna University.
+
+List colleges affiliated with University of Madras.
+
+Show me colleges with NBA accreditation.
+
+Find colleges with NAAC A+ accreditation.
+
+List colleges with NAAC B+ accreditation.
+
+Show me colleges established before 1950.
+
+Find colleges established after 2000.
+
+List colleges established in the 1980s.
+
+Show me colleges established in the 1990s.
+
+Find colleges with "Christian" in the name.
+
+List colleges with "Engineering" in the name.
+
+Show me colleges with "Arts and Science" in the name.
+
+Find colleges located on OMR.
+
+List colleges located in Tambaram area.
+
+Show me colleges located in Central Chennai.
+What is the cheapest college for B.Sc Mathematics?
+
+Which college offers the highest salary package?
+
+What is the oldest college in this list?
+
+Which college has the highest fee for B.Tech?
+
+Cheapest B.Com course in Chennai.
+
+Which is the newest college in this dataset?
+
+What is the cheapest PG course available?
+
+Which college has the lowest average package?
+
+What is the most expensive course at SSN?
+
+What is the cheapest course at HITS?
+
+Which college offers the cheapest MBA?
+
+What is the highest fee for MCA in this dataset?
+
+Which college has the highest placement percentage?
+
+Which college has the lowest placement percentage?
+
+What is the most expensive UG course at WCC?
+
+What is the cheapest UG course at Loyola?
+
+Which is the oldest engineering college in this list?
+
+Which is the oldest arts and science college in this list?
+
+What is the highest Ph.D. fee in the dataset?
+
+What is the cheapest Ph.D. fee in the dataset?
+
+Which college has the highest fee for BCA?
+
+Which college has the lowest fee for BCA?
+
+What is the most expensive law course?
+
+What is the cheapest law course?
+
+Which college has the highest fee for BBA?
+
+Which college has the lowest fee for BBA?
+
+What is the most expensive B.Sc CS course?
+
+What is the cheapest B.Sc CS course?
+
+Which college has the highest fee for MSW?
+
+Which college has the lowest fee for MSW?
+
+What is the most expensive architecture course?
+
+What is the cheapest architecture course?
+
+Which college has the highest fee for M.Sc Data Science?
+
+Which college has the lowest fee for M.Sc Data Science?
+
+What is the most expensive pharmacy course?
+
+What is the cheapest pharmacy course?
+
+Which college has the highest fee for B.Com Honours?
+
+Which college has the lowest fee for B.Com Honours?
+
+What is the most expensive M.Com course?
+
+What is the cheapest M.Com course?
+
+Which college has the highest fee for M.A. English?
+
+Which college has the lowest fee for M.A. English?
+
+What is the most expensive course at PERI?
+
+What is the cheapest course at PERI?
+
+What is the most expensive course at BIHER?
+
+What is the cheapest course at BIHER?
+
+What is the most expensive course at Ethiraj?
+
+What is the cheapest course at Ethiraj?
+
+What is the most expensive course at Sri Balaji?
+
+What is the cheapest course at Sri Balaji?
+
+What is the most expensive course at GNC?
+
+What is the cheapest course at GNC?
+
+What is the most expensive course at MCC?
+
+What is the cheapest course at MCC?
+
+Which college has the highest NAAC grade?
+
+Which college has the lowest NAAC grade?
+
+Which course has the longest duration?
+
+Which course has the shortest duration?
+
+Which college lists the most top recruiters?
+
+Which college lists the fewest student clubs?
+
+What is the highest average package limit mentioned?
+
+What is the lowest average package limit mentioned?
+
+Which engineering college is the newest?
+
+Which women's college is the oldest?
+
+Which women's college is the newest?
+
+What is the cheapest B.E. course?
+
+What is the most expensive B.E. course?
+
+What is the cheapest M.E. course?
+
+What is the most expensive M.E. course?
+
+Which college has the lowest fee for B.Sc Visual Communication?
+
+Which college has the highest fee for B.Sc Visual Communication?
+
+What is the cheapest B.Sc Physics course?
+
+What is the most expensive B.Sc Physics course?
+
+What is the cheapest B.Sc Chemistry course?
+
+What is the most expensive B.Sc Chemistry course?
+
+What is the cheapest M.Sc Mathematics course?
+
+What is the most expensive M.Sc Mathematics course?
+
+Which college has the lowest fee for B.A. Economics?
+
+Which college has the highest fee for B.A. Economics?
+
+What is the cheapest B.A. History course?
+
+What is the most expensive B.A. History course?
+
+What is the cheapest Ph.D. in Science?
+
+What is the most expensive Ph.D. in Science?
+
+Which college has the lowest fee for B.Sc Biotechnology?
+
+Which college has the highest fee for B.Sc Biotechnology?
+
+What is the cheapest M.Sc Zoology course?
+
+What is the most expensive M.Sc Zoology course?
+
+What is the cheapest B.Com Accounting & Finance course?
+
+What is the most expensive B.Com Accounting & Finance course?
+
+Which college has the lowest fee for B.Com Corporate Secretaryship?
+
+Which college has the highest fee for B.Com Corporate Secretaryship?
+
+What is the cheapest B.Sc Information Technology course?
+
+What is the most expensive B.Sc Information Technology course?
+
+What is the cheapest M.A. HRM course?
+
+What is the most expensive M.A. HRM course?
+
+Which college has the lowest fee for B.Sc Psychology?
+
+Which college has the highest fee for B.Sc Psychology?
+
+What is the cheapest B.Voc course?
+
+What is the most expensive B.Voc course?
+
+Which college offers the absolute highest package listed in the text? (SSN: ₹40+ LPA)
+What is the average package at Sri Balaji Arts & Science College?
+
+Who are the top recruiters for SSN College?
+
+Does IBM collaborate with any of these colleges?
+
+Placement rate for Ethiraj College for Women.
+
+What is the highest package ever offered at HITS?
+
+Average package for engineering at BIHER.
+
+What is the placement percentage for MCC?
+
+What is the average package range for MCC?
+
+List the top recruiters for MCC.
+
+Does HITS have a placement rate above 85%?
+
+What is the average package at HITS?
+
+Name the top recruiters for HITS.
+
+What is the placement percentage for PERI College?
+
+What is the average package at PERI College?
+
+What is the placement percentage for BIHER?
+
+Does BIHER have higher placement rates for Engineering & MBA?
+
+What is the placement percentage for Ethiraj?
+
+What is the average package at Ethiraj?
+
+Does Sri Balaji College have a placement rate above 70%?
+
+What is the placement percentage for Loyola College?
+
+What is the average package at Loyola College?
+
+What is the average package at WCC?
+
+Does WCC have structured placement support?
+
+Name the sectors where WCC students are placed.
+
+What is the placement percentage for Guru Nanak College?
+
+What is the average package at Guru Nanak College?
+
+Do MBA courses at GNC get higher packages?
+
+What is the placement percentage for SSN?
+
+What is the average package at SSN?
+
+Does SSN have a high number of core and IT placements?
+
+Which college lists TCS as a top recruiter?
+
+Which college lists Infosys as a top recruiter?
+
+Which college lists Wipro as a top recruiter?
+
+Which college lists Cognizant as a top recruiter?
+
+Which college lists Accenture as a top recruiter?
+
+Which college lists HCL as a top recruiter?
+
+Which college lists Amazon as a top recruiter?
+
+Which college lists Microsoft as a top recruiter?
+
+Which college lists Zoho as a top recruiter?
+
+Does HITS collaborate with GARC?
+
+Does HITS collaborate with IATA?
+
+Are internships integrated into courses at WCC?
+
+Do BIHER students get placed in top IT companies?
+
+Is Loyola known for strong placement support?
+
+Is SSN known for high placement records?
+
+Does Ethiraj have a strong placement record?
+
+Is PERI focused on skill development and placements?
+
+Does GNC have strong placement support?
+
+Which college has an 88-92% placement rate?
+
+Which college has an 80-90% placement rate?
+
+Which college has a 75-90% placement rate?
+
+Which college has an 80-95% placement rate?
+
+Which college has a 90-95% placement rate?
+
+Which college has a 60-75% placement rate?
+
+Which college has a 70-85% placement rate?
+
+Which college has a 75-85% placement rate?
+
+Which college's highest package is ₹18 LPA?
+
+Which college's highest package exceeds ₹40 LPA?
+
+Which college has an average package of ₹5.8 LPA?
+
+Which college has an average package of ₹3.5-5 LPA?
+
+Which college has an average package of ₹2.5-4 LPA?
+
+Which college has an average package of ₹3-6 LPA?
+
+Which college has an average package of ₹3-5 LPA?
+
+Which college has an average package of ₹2-3.5 LPA?
+
+Which college has an average package of ₹3-5.5 LPA?
+
+Which college has an average package of ₹2.5-4.5 LPA?
+
+Which college has an average package of ₹6-8 LPA?
+
+Does SSN have better CSE packages than other branches?
+
+Do BIHER Engineering students get better packages than Arts students?
+
+Does MCC have lower placement rates in some departments?
+
+Do PERI College students get placed in IT companies?
+
+Are WCC students placed in banking institutions?
+
+Do WCC students get placed in media organizations?
+
+Do GNC MBA students get higher average packages?
+
+Does Sri Balaji have a dedicated placement cell? (Assumed from placement data)
+
+Is SSN the best college for placements in this list?
+
+Does Loyola have placements for vocational courses?
+
+Are there placement opportunities for Ph.D. students at HITS?
+
+Does Ethiraj provide placement for all its departments?
+
+Does MCC provide placement for all its departments?
+
+Are there placement opportunities for law students at BIHER?
+
+Does BIHER place architecture students?
+
+Do B.Pharm students at BIHER get placed?
+
+Do Allied Health students at HITS get placed?
+
+Do B.Des students at HITS get placed?
+
+Do B.Arch students at HITS get placed?
+
+Are there placement opportunities for MSW students at WCC?
+
+Does SSN place Chemical Engineering students?
+
+Does SSN place Biomedical Engineering students?
+
+Are there placement opportunities for M.E. Communication Systems at SSN?
+
+Do B.Sc Clinical Nutrition students at Ethiraj get placed?
+
+Do B.Sc Visual Communication students at Loyola get placed?
+
+Does PERI place B.Sc Artificial Intelligence students?
+
+Does PERI place B.Sc Data Science students?
+
+Are there placement opportunities for BCA students at Sri Balaji?
+
+Do B.A. Defence Studies students at GNC get placed?
+
+Do B.Sc Advanced Zoology students at MCC get placed?
+
+Are there placement opportunities for M.Sc Nanoscience at HITS?
+
+Does BIHER place M.Sc Clinical Embryology students?
+
+Do B.Voc Digital Journalism students at Loyola get placed?
+Does PERI College have a hostel for girls?
+
+Is there an Entrepreneurship Cell at Guru Nanak College?
+
+Does SSN allow Lateral Entry for diploma holders?
+
+Are there smart classrooms at HITS?
+
+Which colleges have an NCC club?
+
+Does WCC have a coding club?
+
+What is the admission mode for Engineering at HITS?
+
+How can I get into the Doctorate programs at Ethiraj?
+
+Does Sri Balaji Arts & Science College require an entrance exam?
+
+Which college requires the JEE exam for admission?
+
+Is admission to Ethiraj purely Merit-Based?
+
+Which college uses an Interview for PG admissions?
+
+How do I get into the MBA program at BIHER?
+
+Does HITS have a Management Quota?
+
+Which college offers Direct Admission?
+
+What is the admission mode for B.Arch in this dataset?
+
+Which college requires a University Entrance Exam?
+
+Is Counseling mentioned as an admission mode for Loyola?
+
+Find colleges that offer Merit-Based UG admissions.
+
+Does HITS have separate boys and girls hostels?
+
+Does MCC have separate boys and girls hostels?
+
+Does BIHER have separate boys and girls hostels?
+
+Does Ethiraj have a hostel?
+
+Does Sri Balaji have a hostel?
+
+Does Loyola have a hostel for girls? (Limited seats mentioned)
+
+Does WCC have a hostel?
+
+Does GNC have a hostel for boys?
+
+Does SSN have separate boys and girls hostels?
+
+Is there a central library at HITS?
+
+Does HITS have advanced research labs?
+
+Is there a sports complex at HITS?
+
+Does HITS have a cafeteria?
+
+Is there a transport facility at HITS?
+
+Does HITS have a Wi-Fi campus?
+
+Which college has a Coding Club?
+
+Which college has an AI Club?
+
+Which college has an NSS club?
+
+Which college has a Cultural Club?
+
+Which college has a Photography Club?
+
+Which college has a Sports Club?
+
+Which college has a Literary Club?
+
+Which college has a Science Forum?
+
+Which college has a Rotaract club?
+
+Which college has an Eco Club?
+
+Which college has a Commerce Association?
+
+Which college has an IT Club?
+
+Which college has a Women Empowerment/Development Cell?
+
+Which college has Technical Clubs?
+
+Which college has Technical Symposium Teams?
+
+Which college has a Youth Red Cross club?
+
+Which college has Social Outreach Programs?
+
+Which college has Research and Innovation Cells?
+
+Which college has Media and Communication Forums?
+
+Does HITS have an entrance exam for PG?
+
+Does MCC have an entrance exam for UG?
+
+Does PERI offer Counseling admission?
+
+Does BIHER offer Merit-Based admission?
+
+Does Loyola offer Counseling admission?
+
+Does WCC have an entrance exam for select PG programs?
+
+Does GNC admission follow Tamil Nadu Govt norms?
+
+Does SSN offer TNEA Counselling?
+
+Can I get direct admission into 2nd year at SSN?
+
+Does HITS have an Entrepreneurship Cell?
+
+Does MCC have an Entrepreneurship Cell?
+
+Does BIHER have an Entrepreneurship Cell?
+
+Does SSN have an Entrepreneurship Cell?
+
+Does WCC have IT and Coding Clubs?
+
+Does Loyola have a Women Empowerment Cell?
+
+Does Ethiraj have a Women Development Cell?
+
+Does BIHER have a Women Empowerment Cell?
+
+Does PERI have a Women Empowerment Cell?
+
+Does Sri Balaji have a Computer Science Association?
+
+Does GNC have a Literary Club?
+
+Does Ethiraj have a Literary Club?
+
+Does MCC have a Literary Club?
+
+Does SSN have an IEEE club?
+
+Does Loyola have a Science Forum?
+
+Does Ethiraj have a Science Forum?
+
+Does PERI have a Science Forum?
+
+Does GNC have a Science Forum?
+
+Does MCC have a Science Forum?
+
+Does HITS have a Robotics Club?
+
+Does Sri Balaji have a Commerce Club?
+
+Does WCC have a Commerce Association?
+
+Does Loyola have a Commerce Association?
+
+Does Ethiraj have a Commerce Association?
+
+Does GNC have a Commerce Association?
+
+Does PERI have a Commerce Association?
+
+Does SSN have Cultural Clubs?
+
+Does GNC have a Cultural Club?
+
+Does Loyola have a Cultural Club?
+
+Does Ethiraj have a Cultural Club?
+
+Does BIHER have a Cultural Club?
+
+Does PERI have a Cultural Club?
+
+Does Sri Balaji have a Cultural Club?
+
+Does MCC have a Cultural Committee?
+
+Does HITS have a Cultural Club?
+
+Is MCC an autonomous college?
+
+Is Ethiraj an autonomous college?
+
+Is Loyola an autonomous college?

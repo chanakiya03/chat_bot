@@ -1,0 +1,36 @@
+Column Name,Data Value
+College Name,PERI College of Arts and Science
+Type,Self-Financed Arts & Science College
+About,Industry-oriented institution offering UG & PG programs with focus on skill development and placements.
+Established,2010
+Location,"Mannivakkam, West Tambaram, Chennai – 600048, Tamil Nadu, India"
+Accreditation,NAAC B+
+RANKING & REPUTATION,Emerging private arts & science college in Chennai region.
+PLACEMENT DATA,"Placement Percentage: 70–85%, Average Package: ₹2.5 – 4 LPA"
+STUDENT CLUBS,"NSS, Cultural Club, Commerce Association, Science Forum, IT Club, Women Empowerment Cell"
+Courses Offered,"UG & PG Programs (Arts, Science, Commerce, Management, Computer Applications)"
+Hostel Available,Yes (Separate for Boys & Girls)
+Average Package,₹2.5 – 4 LPA
+Admission Mode,"Merit-Based, Direct Admission, Counseling"
+Popular Courses,"B.Sc Computer Science, B.Sc AI, B.Sc Data Science, B.Com A&F, BCA"
+Course,Course (split) batch,Duration,Stream,Specialization,Annual Fees (₹)
+B.Com General,UG,3 Years,Commerce,General,"45,000"
+B.Com Accounting & Finance,UG,3 Years,Commerce,Accounting & Finance,"55,000"
+B.Com Computer Application,UG,3 Years,Commerce,Computer Application,"60,000"
+B.Com Corporate Secretaryship,UG,3 Years,Commerce,Corporate Secretaryship,"50,000"
+B.Sc Chemistry,UG,3 Years,Science,Chemistry,"50,000"
+B.Sc Computer Science,UG,3 Years,Science,Computer Science,"70,000"
+B.Sc Artificial Intelligence,UG,3 Years,Science,Artificial Intelligence,"90,000"
+B.Sc Data Science,UG,3 Years,Science,Data Science,"95,000"
+B.Sc Visual Communication,UG,3 Years,Science,Visual Communication,"65,000"
+B.Sc Microbiology,UG,3 Years,Science,Microbiology,"75,000"
+B.Sc Psychology,UG,3 Years,Science,Psychology,"60,000"
+B.Sc Biotechnology,UG,3 Years,Science,Biotechnology,"80,000"
+BCA Computer Application,UG,3 Years,Computer,Computer Application,"85,000"
+B.A Tamil,UG,3 Years,Arts,Tamil,"35,000"
+B.A English,UG,3 Years,Arts,English,"40,000"
+B.A Criminology & Police Administration,UG,3 Years,Arts,Criminology & Police Administration,"55,000"
+BBA Business Administration,UG,3 Years,Management,Business Administration,"75,000"
+M.Com General,PG,2 Years,Commerce,General,"60,000"
+M.Sc Computer Science,PG,2 Years,Science,Computer Science,"90,000"
+M.Sc Microbiology,PG,2 Years,Science,Microbiology,"95,000"

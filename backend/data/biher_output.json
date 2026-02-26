@@ -1,0 +1,301 @@
+{
+    "college_details": {
+        "Column Name": "Data Value",
+        "College Name": "Bharath Institute of Higher Education and Research (BIHER)",
+        "Type": "Deemed-to-be University",
+        "About": "Multidisciplinary university offering programs in Arts & Science, Engineering, Management, Law, Architecture, Pharmacy, Nursing & Allied Health Sciences with strong research and industry collaboration focus.",
+        "Established": "1984 (University Status: 2003)",
+        "Location": "Selaiyur, Chennai \u2013 600073, Tamil Nadu, India",
+        "Accreditation": "NAAC Accredited (A Grade), UGC Approved",
+        "RANKING & REPUTATION": "Recognized Deemed University with national-level program offerings",
+        "PLACEMENT DATA": "80\u201390% Placement (varies by department)",
+        "STUDENT CLUBS": "NSS, NCC, Cultural Club, Technical Clubs, Entrepreneurship Cell, Women Empowerment Cell",
+        "Courses Offered": "UG, PG, Diploma, Integrated & Research Programs",
+        "Hostel Available": "Yes (Separate for Boys & Girls)",
+        "Average Package": "\u20b93 \u2013 6 LPA (Higher for Engineering & MBA)",
+        "Admission Mode": "Entrance Exam / Merit-Based / Counseling",
+        "Popular Courses": "B.Tech CSE, B.Tech AI & ML, MBA, B.Pharm, B.Sc AI & DS"
+    },
+    "courses": [
+        {
+            "course": "B.Com General",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "General",
+            "annual_fees_inr": 60000
+        },
+        {
+            "course": "B.Com Honours",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Honours",
+            "annual_fees_inr": 70000
+        },
+        {
+            "course": "B.Com Accounting & Finance",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Accounting & Finance",
+            "annual_fees_inr": 75000
+        },
+        {
+            "course": "BCA General",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Computer Applications",
+            "specialization": "General",
+            "annual_fees_inr": 90000
+        },
+        {
+            "course": "BBA Business Administration",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Management",
+            "specialization": "Business Administration",
+            "annual_fees_inr": 85000
+        },
+        {
+            "course": "B.Sc Computer Science",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Computer Science",
+            "annual_fees_inr": 85000
+        },
+        {
+            "course": "B.Sc AI & ML",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "AI & ML",
+            "annual_fees_inr": 120000
+        },
+        {
+            "course": "B.Sc AI & Data Science",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "AI & Data Science",
+            "annual_fees_inr": 125000
+        },
+        {
+            "course": "B.A English",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "English",
+            "annual_fees_inr": 55000
+        },
+        {
+            "course": "B.A Tamil",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "Tamil",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "MCA General",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Computer Applications",
+            "specialization": "General",
+            "annual_fees_inr": 120000
+        },
+        {
+            "course": "M.Com General",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Commerce",
+            "specialization": "General",
+            "annual_fees_inr": 70000
+        },
+        {
+            "course": "M.Sc Computer Science",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Computer Science",
+            "annual_fees_inr": 100000
+        },
+        {
+            "course": "M.A English",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "English",
+            "annual_fees_inr": 60000
+        },
+        {
+            "course": "B.Tech Computer Science & Engineering",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Engineering",
+            "specialization": "Computer Science & Engineering",
+            "annual_fees_inr": 200000
+        },
+        {
+            "course": "B.Tech AI & ML",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Engineering",
+            "specialization": "AI & ML",
+            "annual_fees_inr": 225000
+        },
+        {
+            "course": "B.Tech Data Science",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Engineering",
+            "specialization": "Data Science",
+            "annual_fees_inr": 220000
+        },
+        {
+            "course": "B.Tech Mechanical Engineering",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Engineering",
+            "specialization": "Mechanical Engineering",
+            "annual_fees_inr": 175000
+        },
+        {
+            "course": "B.Tech Civil Engineering",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Engineering",
+            "specialization": "Civil Engineering",
+            "annual_fees_inr": 175000
+        },
+        {
+            "course": "B.Tech Aerospace Engineering",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Engineering",
+            "specialization": "Aerospace Engineering",
+            "annual_fees_inr": 250000
+        },
+        {
+            "course": "M.Tech Computer Science & Engineering",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Engineering",
+            "specialization": "Computer Science & Engineering",
+            "annual_fees_inr": 150000
+        },
+        {
+            "course": "M.Tech Thermal Engineering",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Engineering",
+            "specialization": "Thermal Engineering",
+            "annual_fees_inr": 140000
+        },
+        {
+            "course": "D.Pharm General",
+            "batch": "Diploma",
+            "duration_years": "2",
+            "stream": "Pharmacy",
+            "specialization": "General",
+            "annual_fees_inr": 150000
+        },
+        {
+            "course": "B.Pharm General",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Pharmacy",
+            "specialization": "General",
+            "annual_fees_inr": 200000
+        },
+        {
+            "course": "Pharm D Doctor of Pharmacy",
+            "batch": "UG",
+            "duration_years": "6",
+            "stream": "Pharmacy",
+            "specialization": "Doctor of Pharmacy",
+            "annual_fees_inr": 250000
+        },
+        {
+            "course": "M.Pharm Pharmaceutics",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Pharmacy",
+            "specialization": "Pharmaceutics",
+            "annual_fees_inr": 180000
+        },
+        {
+            "course": "B.Sc Medical Laboratory Technology",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Allied Health Sciences",
+            "specialization": "Medical Laboratory Technology",
+            "annual_fees_inr": 140000
+        },
+        {
+            "course": "B.Sc Radiology & Imaging Science",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Allied Health Sciences",
+            "specialization": "Radiology & Imaging Science",
+            "annual_fees_inr": 160000
+        },
+        {
+            "course": "M.Sc Clinical Embryology",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Allied Health Sciences",
+            "specialization": "Clinical Embryology",
+            "annual_fees_inr": 200000
+        },
+        {
+            "course": "MBA Business Administration",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Management",
+            "specialization": "Business Administration",
+            "annual_fees_inr": 200000
+        },
+        {
+            "course": "B.Arch General",
+            "batch": "UG",
+            "duration_years": "5",
+            "stream": "Architecture",
+            "specialization": "General",
+            "annual_fees_inr": 250000
+        },
+        {
+            "course": "M.Arch General",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Architecture",
+            "specialization": "General",
+            "annual_fees_inr": 220000
+        },
+        {
+            "course": "LL.B (Hons.) General",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Law",
+            "specialization": "General",
+            "annual_fees_inr": 150000
+        },
+        {
+            "course": "BBA LL.B Integrated",
+            "batch": "UG",
+            "duration_years": "5",
+            "stream": "Law",
+            "specialization": "Integrated",
+            "annual_fees_inr": 180000
+        },
+        {
+            "course": "Ph.D Various Disciplines",
+            "batch": "Doctorate",
+            "duration_years": "35",
+            "stream": "Research",
+            "specialization": "Various Disciplines",
+            "annual_fees_inr": 120000
+        }
+    ]
+}

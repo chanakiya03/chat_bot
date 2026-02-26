@@ -1,0 +1,17 @@
+# Python
+venv/
+venv310/
+__pycache__/
+*.pyc
+.env
+db.sqlite3
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log

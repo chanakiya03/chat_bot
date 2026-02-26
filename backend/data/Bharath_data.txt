@@ -1,0 +1,51 @@
+Column Name,Data Value
+College Name,Bharath Institute of Higher Education and Research (BIHER)
+Type,Deemed-to-be University
+About,"Multidisciplinary university offering programs in Arts & Science, Engineering, Management, Law, Architecture, Pharmacy, Nursing & Allied Health Sciences with strong research and industry collaboration focus."
+Established,1984 (University Status: 2003)
+Location,"Selaiyur, Chennai – 600073, Tamil Nadu, India"
+Accreditation,"NAAC Accredited (A Grade), UGC Approved"
+RANKING & REPUTATION,Recognized Deemed University with national-level program offerings
+PLACEMENT DATA,80–90% Placement (varies by department)
+STUDENT CLUBS,"NSS, NCC, Cultural Club, Technical Clubs, Entrepreneurship Cell, Women Empowerment Cell"
+Courses Offered,"UG, PG, Diploma, Integrated & Research Programs"
+Hostel Available,Yes (Separate for Boys & Girls)
+Average Package,₹3 – 6 LPA (Higher for Engineering & MBA)
+Admission Mode,Entrance Exam / Merit-Based / Counseling
+Popular Courses,"B.Tech CSE, B.Tech AI & ML, MBA, B.Pharm, B.Sc AI & DS"
+Course,Course (split) batch,Duration,Stream,Specialization,Annual Fees (₹)
+B.Com General,UG,3 Years,Commerce,General,"60,000"
+B.Com Honours,UG,3 Years,Commerce,Honours,"70,000"
+B.Com Accounting & Finance,UG,3 Years,Commerce,Accounting & Finance,"75,000"
+BCA General,UG,3 Years,Computer Applications,General,"90,000"
+BBA Business Administration,UG,3 Years,Management,Business Administration,"85,000"
+B.Sc Computer Science,UG,3 Years,Science,Computer Science,"85,000"
+B.Sc AI & ML,UG,3 Years,Science,AI & ML,"1,20,000"
+B.Sc AI & Data Science,UG,3 Years,Science,AI & Data Science,"1,25,000"
+B.A English,UG,3 Years,Arts,English,"55,000"
+B.A Tamil,UG,3 Years,Arts,Tamil,"50,000"
+MCA General,PG,2 Years,Computer Applications,General,"1,20,000"
+M.Com General,PG,2 Years,Commerce,General,"70,000"
+M.Sc Computer Science,PG,2 Years,Science,Computer Science,"1,00,000"
+M.A English,PG,2 Years,Arts,English,"60,000"
+B.Tech Computer Science & Engineering,UG,4 Years,Engineering,Computer Science & Engineering,"2,00,000"
+B.Tech AI & ML,UG,4 Years,Engineering,AI & ML,"2,25,000"
+B.Tech Data Science,UG,4 Years,Engineering,Data Science,"2,20,000"
+B.Tech Mechanical Engineering,UG,4 Years,Engineering,Mechanical Engineering,"1,75,000"
+B.Tech Civil Engineering,UG,4 Years,Engineering,Civil Engineering,"1,75,000"
+B.Tech Aerospace Engineering,UG,4 Years,Engineering,Aerospace Engineering,"2,50,000"
+M.Tech Computer Science & Engineering,PG,2 Years,Engineering,Computer Science & Engineering,"1,50,000"
+M.Tech Thermal Engineering,PG,2 Years,Engineering,Thermal Engineering,"1,40,000"
+D.Pharm General,Diploma,2 Years,Pharmacy,General,"1,50,000"
+B.Pharm General,UG,4 Years,Pharmacy,General,"2,00,000"
+Pharm D Doctor of Pharmacy,UG,6 Years,Pharmacy,Doctor of Pharmacy,"2,50,000"
+M.Pharm Pharmaceutics,PG,2 Years,Pharmacy,Pharmaceutics,"1,80,000"
+B.Sc Medical Laboratory Technology,UG,3 Years,Allied Health Sciences,Medical Laboratory Technology,"1,40,000"
+B.Sc Radiology & Imaging Science,UG,3 Years,Allied Health Sciences,Radiology & Imaging Science,"1,60,000"
+M.Sc Clinical Embryology,PG,2 Years,Allied Health Sciences,Clinical Embryology,"2,00,000"
+MBA Business Administration,PG,2 Years,Management,Business Administration,"2,00,000"
+B.Arch General,UG,5 Years,Architecture,General,"2,50,000"
+M.Arch General,PG,2 Years,Architecture,General,"2,20,000"
+LL.B (Hons.) General,UG,3 Years,Law,General,"1,50,000"
+BBA LL.B Integrated,UG,5 Years,Law,Integrated,"1,80,000"
+Ph.D Various Disciplines,Doctorate,3–5 Years,Research,Various Disciplines,"1,20,000"

@@ -1,0 +1,301 @@
+{
+    "college_details": {
+        "Column Name": "Data Value",
+        "College Name": "Guru Nanak College",
+        "Type": "Autonomous, Co-educational, Arts & Science College (Aided + Self-Financing)",
+        "About": "Established by the Dakshin Bharat Sikh Sabha, the college offers UG, PG, Professional and Research programmes in Arts, Science, Commerce and Management. It is known for academic excellence, discipline, and strong placement support.",
+        "Established": "1971",
+        "Location": "Velachery, Chennai, Tamil Nadu, India",
+        "Accreditation": "NAAC Accredited (A++ Grade), Affiliated to University of Madras",
+        "RANKING & REPUTATION": "One of the top autonomous arts & science colleges in Chennai; consistently high NAAC grade.",
+        "PLACEMENT DATA": "75\u201385% placement rate (varies by department)",
+        "STUDENT CLUBS": "NSS, NCC, Youth Red Cross, Rotaract, Commerce Association, Science Forum, Literary Club, Cultural Club, Entrepreneurship Development Cell",
+        "Courses Offered": "UG, PG, Professional and Research programmes in Arts, Science, Commerce and Management",
+        "Hostel Available": "Yes (Boys & Girls)",
+        "Average Package": "\u20b92.5 \u2013 \u20b94.5 LPA (MBA & professional courses higher)",
+        "Admission Mode": "Merit-based (as per Tamil Nadu Govt norms)",
+        "Popular Courses": "B.Com, BBA, BCA, MBA, B.Sc Computer Science, M.Com"
+    },
+    "courses": [
+        {
+            "course": "B.A. Economics [Aided]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "Economics",
+            "annual_fees_inr": 4000
+        },
+        {
+            "course": "B.A. Defence & Strategic Studies [Aided]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "Defence Studies",
+            "annual_fees_inr": 4000
+        },
+        {
+            "course": "B.Sc. Mathematics [Aided]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Mathematics",
+            "annual_fees_inr": 4500
+        },
+        {
+            "course": "B.Sc. Physics [Aided]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Physics",
+            "annual_fees_inr": 4500
+        },
+        {
+            "course": "B.Sc. Chemistry [Aided]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Chemistry",
+            "annual_fees_inr": 4500
+        },
+        {
+            "course": "B.Sc. Plant Biology & Biotechnology [Aided]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Plant Biology",
+            "annual_fees_inr": 6500
+        },
+        {
+            "course": "B.Sc. Advanced Zoology & Biotechnology [Aided]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Zoology",
+            "annual_fees_inr": 6500
+        },
+        {
+            "course": "B.Com. General [Aided]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "General",
+            "annual_fees_inr": 4000
+        },
+        {
+            "course": "B.Com. Corporate Secretaryship [Aided]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Corporate Secretaryship",
+            "annual_fees_inr": 6500
+        },
+        {
+            "course": "M.A. Economics [Aided]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "Economics",
+            "annual_fees_inr": 6000
+        },
+        {
+            "course": "M.Sc. Chemistry [Aided]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Chemistry",
+            "annual_fees_inr": 7500
+        },
+        {
+            "course": "M.Com. General [Aided]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Commerce",
+            "specialization": "General",
+            "annual_fees_inr": 6000
+        },
+        {
+            "course": "B.A. English [SFS-I]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "English",
+            "annual_fees_inr": 32500
+        },
+        {
+            "course": "B.A. Sociology [SFS-I]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "Sociology",
+            "annual_fees_inr": 32500
+        },
+        {
+            "course": "B.A. Political Science [SFS-I]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Arts",
+            "specialization": "Political Science",
+            "annual_fees_inr": 32500
+        },
+        {
+            "course": "B.Sc. Visual Communication [SFS-I]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Visual Communication",
+            "annual_fees_inr": 60000
+        },
+        {
+            "course": "B.Sc. Biotechnology [SFS-I]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Biotechnology",
+            "annual_fees_inr": 52500
+        },
+        {
+            "course": "B.Sc. Information Technology [SFS-I]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "IT",
+            "annual_fees_inr": 52500
+        },
+        {
+            "course": "B.Sc. Data Analytics [SFS-I]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Data Analytics",
+            "annual_fees_inr": 65000
+        },
+        {
+            "course": "B.Com. General [SFS-I]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "General",
+            "annual_fees_inr": 42500
+        },
+        {
+            "course": "B.Com. Computer Applications [SFS-I]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Computer Applications",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "B.Com. Professional Accounting [SFS-I]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Accounting",
+            "annual_fees_inr": 55000
+        },
+        {
+            "course": "M.Sc. Mathematics [SFS-I]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Mathematics",
+            "annual_fees_inr": 42500
+        },
+        {
+            "course": "M.Sc. Zoology [SFS-I]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Science",
+            "specialization": "Zoology",
+            "annual_fees_inr": 45000
+        },
+        {
+            "course": "M.S.W [SFS-I]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Arts",
+            "specialization": "Social Work",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "MBA Business Administration [SFS-I]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Management",
+            "specialization": "Business Administration",
+            "annual_fees_inr": 100000
+        },
+        {
+            "course": "MCA Computer Applications [SFS-I]",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Computer Applications",
+            "specialization": "General",
+            "annual_fees_inr": 85000
+        },
+        {
+            "course": "B.B.A General [SFS-II]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Management",
+            "specialization": "General",
+            "annual_fees_inr": 55000
+        },
+        {
+            "course": "B.B.A Retail Management [SFS-II]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Management",
+            "specialization": "Retail",
+            "annual_fees_inr": 60000
+        },
+        {
+            "course": "B.C.A Computer Applications [SFS-II]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Computer Applications",
+            "specialization": "General",
+            "annual_fees_inr": 60000
+        },
+        {
+            "course": "B.Sc. Computer Science [SFS-II]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Science",
+            "specialization": "Computer Science",
+            "annual_fees_inr": 60000
+        },
+        {
+            "course": "B.Com. Accounting & Finance [SFS-II]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "A&F",
+            "annual_fees_inr": 55000
+        },
+        {
+            "course": "B.Com. Honours [SFS-II]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Honours",
+            "annual_fees_inr": 70000
+        },
+        {
+            "course": "B.Com. Bank Management [SFS-II]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Banking",
+            "annual_fees_inr": 55000
+        },
+        {
+            "course": "B.Com. Marketing Management [SFS-II]",
+            "batch": "UG",
+            "duration_years": "3",
+            "stream": "Commerce",
+            "specialization": "Marketing",
+            "annual_fees_inr": 55000
+        }
+    ]
+}

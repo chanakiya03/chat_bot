@@ -1,0 +1,229 @@
+{
+    "college_details": {
+        "Column Name": "Data Value",
+        "College Name": "SSN College of Engineering",
+        "Type": "Autonomous Private Engineering College",
+        "About": "Founded by educationist and philanthropist Shiv Nadar, SSN is one of Tamil Nadu\u2019s top engineering institutions known for academic excellence, strong industry connections, research focus, and high placement records.",
+        "Established": "1996",
+        "Location": "Kalavakkam (OMR), Chennai, Tamil Nadu, India",
+        "Accreditation": "NAAC A++ Grade, NBA Accredited Programs, Affiliated to Anna University",
+        "RANKING & REPUTATION": "Consistently ranked among Top Private Engineering Colleges in Tamil Nadu; strong reputation in CSE, ECE & IT.",
+        "PLACEMENT DATA": "90\u201395% placement rate, Top recruiters: Amazon, Microsoft, TCS, Infosys, Zoho, Cognizant, etc.",
+        "STUDENT CLUBS": "NSS, NCC, IEEE, Coding Club, Entrepreneurship Cell, Rotaract, Cultural Clubs, Technical Symposium Teams",
+        "Courses Offered": "B.E., B.Tech, M.E., M.Tech, Integrated M.Tech (Lateral Entry available)",
+        "Hostel Available": "Yes (Separate for Boys & Girls)",
+        "Average Package": "\u20b96 \u2013 \u20b98 LPA (CSE higher, highest packages can exceed \u20b940+ LPA)",
+        "Admission Mode": "TNEA Counselling (Government Quota), Management Quota, Lateral Entry",
+        "Popular Courses": "CSE, IT, ECE, Biomedical Engineering"
+    },
+    "courses": [
+        {
+            "course": "B.E. Computer Science & Engineering [Govt Quota]",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Engineering",
+            "specialization": "CSE",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "B.E. Computer Science & Engineering [Mgmt Quota]",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Engineering",
+            "specialization": "CSE",
+            "annual_fees_inr": 200000
+        },
+        {
+            "course": "B.Tech Information Technology [Govt Quota]",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Engineering",
+            "specialization": "IT",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "B.Tech Information Technology [Mgmt Quota]",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Engineering",
+            "specialization": "IT",
+            "annual_fees_inr": 200000
+        },
+        {
+            "course": "B.E. Electronics & Communication Engineering [Govt Quota]",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Engineering",
+            "specialization": "ECE",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "B.E. Electronics & Communication Engineering [Mgmt Quota]",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Engineering",
+            "specialization": "ECE",
+            "annual_fees_inr": 200000
+        },
+        {
+            "course": "B.E. Electrical & Electronics Engineering [Govt Quota]",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Engineering",
+            "specialization": "EEE",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "B.E. Electrical & Electronics Engineering [Mgmt Quota]",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Engineering",
+            "specialization": "EEE",
+            "annual_fees_inr": 200000
+        },
+        {
+            "course": "B.E. Mechanical Engineering [Govt Quota]",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Engineering",
+            "specialization": "Mechanical",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "B.E. Mechanical Engineering [Mgmt Quota]",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Engineering",
+            "specialization": "Mechanical",
+            "annual_fees_inr": 200000
+        },
+        {
+            "course": "B.Tech Chemical Engineering [Govt Quota]",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Engineering",
+            "specialization": "Chemical",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "B.Tech Chemical Engineering [Mgmt Quota]",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Engineering",
+            "specialization": "Chemical",
+            "annual_fees_inr": 200000
+        },
+        {
+            "course": "B.E. Biomedical Engineering [Govt Quota]",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Engineering",
+            "specialization": "Biomedical",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "B.E. Biomedical Engineering [Mgmt Quota]",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Engineering",
+            "specialization": "Biomedical",
+            "annual_fees_inr": 200000
+        },
+        {
+            "course": "B.E. Civil Engineering [Govt Quota]",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Engineering",
+            "specialization": "Civil",
+            "annual_fees_inr": 50000
+        },
+        {
+            "course": "B.E. Civil Engineering [Mgmt Quota]",
+            "batch": "UG",
+            "duration_years": "4",
+            "stream": "Engineering",
+            "specialization": "Civil",
+            "annual_fees_inr": 200000
+        },
+        {
+            "course": "M.E. Computer Science & Engineering",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Engineering",
+            "specialization": "CSE",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "M.Tech Information Technology",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Engineering",
+            "specialization": "IT",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "M.E. Communication Systems",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Engineering",
+            "specialization": "Communication",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "M.E. VLSI Design",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Engineering",
+            "specialization": "VLSI",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "M.E. Power Electronics & Drives",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Engineering",
+            "specialization": "Power Electronics",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "M.E. Manufacturing Engineering",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Engineering",
+            "specialization": "Manufacturing",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "M.Tech Energy Engineering",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Engineering",
+            "specialization": "Energy",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "M.E. Medical Electronics",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Engineering",
+            "specialization": "Medical Electronics",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "M.Tech Environmental Science & Technology",
+            "batch": "PG",
+            "duration_years": "2",
+            "stream": "Engineering",
+            "specialization": "Environmental",
+            "annual_fees_inr": 80000
+        },
+        {
+            "course": "Integrated M.Tech Computer Science & Engineering",
+            "batch": "UG+PG",
+            "duration_years": "5",
+            "stream": "Engineering",
+            "specialization": "Computer Science & Engineering",
+            "annual_fees_inr": 175000
+        }
+    ]
+}
