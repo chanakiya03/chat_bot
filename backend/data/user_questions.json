@@ -6118,5 +6118,100 @@
         "timestamp": "2026-02-26T17:41:44.488379",
         "session_id": "83af43be-0170-4077-a009-73936870b9e8",
         "question": "NAAC grade college"
+    },
+    {
+        "timestamp": "2026-02-26T18:03:09.673021",
+        "session_id": "cb6be5f3-ffef-44d7-8f04-a3c125d5fe71",
+        "question": "hi"
+    },
+    {
+        "timestamp": "2026-02-26T19:37:27.918307",
+        "session_id": "5fb4acc7-fa65-4973-8a3c-a13938c5dbdc",
+        "question": "INIT_CHAT"
+    },
+    {
+        "timestamp": "2026-02-26T19:40:05.595608",
+        "session_id": "ace9d04f-5d48-4665-9e7a-6d2621b38cff",
+        "question": "INIT_CHAT"
+    },
+    {
+        "timestamp": "2026-02-26T19:40:40.722825",
+        "session_id": "ace9d04f-5d48-4665-9e7a-6d2621b38cff",
+        "question": "PERI BSC FEES"
+    },
+    {
+        "timestamp": "2026-02-26T19:40:49.952843",
+        "session_id": "ace9d04f-5d48-4665-9e7a-6d2621b38cff",
+        "question": "peri bsc cs fees"
+    },
+    {
+        "timestamp": "2026-02-26T19:41:07.442460",
+        "session_id": "ace9d04f-5d48-4665-9e7a-6d2621b38cff",
+        "question": "peri bsc  fees"
+    },
+    {
+        "timestamp": "2026-02-26T19:41:14.007115",
+        "session_id": "ace9d04f-5d48-4665-9e7a-6d2621b38cff",
+        "question": "peri bsc fees?"
+    },
+    {
+        "timestamp": "2026-02-26T19:41:38.650076",
+        "session_id": "ace9d04f-5d48-4665-9e7a-6d2621b38cff",
+        "question": "sri balaji bca fees?"
+    },
+    {
+        "timestamp": "2026-03-03T16:57:07.565463",
+        "session_id": "264ff66e-1920-46f5-9fce-284716c1455b",
+        "question": "INIT_CHAT"
+    },
+    {
+        "timestamp": "2026-03-03T16:57:15.009413",
+        "session_id": "264ff66e-1920-46f5-9fce-284716c1455b",
+        "question": "hi"
+    },
+    {
+        "timestamp": "2026-03-03T16:57:17.323293",
+        "session_id": "264ff66e-1920-46f5-9fce-284716c1455b",
+        "question": "hello"
+    },
+    {
+        "timestamp": "2026-03-03T16:57:24.298190",
+        "session_id": "264ff66e-1920-46f5-9fce-284716c1455b",
+        "question": "peri bca fees?"
+    },
+    {
+        "timestamp": "2026-03-03T16:57:28.462871",
+        "session_id": "264ff66e-1920-46f5-9fce-284716c1455b",
+        "question": "Which colleges in this list are Deemed-to-be Universities?"
+    },
+    {
+        "timestamp": "2026-03-03T16:57:31.307455",
+        "session_id": "264ff66e-1920-46f5-9fce-284716c1455b",
+        "question": "Which college has a 60-75% placement rate?"
+    },
+    {
+        "timestamp": "2026-03-03T16:57:33.076462",
+        "session_id": "264ff66e-1920-46f5-9fce-284716c1455b",
+        "question": "Does Ethiraj have a Science Forum?"
+    },
+    {
+        "timestamp": "2026-03-03T16:57:45.730078",
+        "session_id": "264ff66e-1920-46f5-9fce-284716c1455b",
+        "question": "Is SSN in Chennai?"
+    },
+    {
+        "timestamp": "2026-03-03T16:57:49.555718",
+        "session_id": "264ff66e-1920-46f5-9fce-284716c1455b",
+        "question": "Which college has an AI Club?"
+    },
+    {
+        "timestamp": "2026-03-03T16:58:16.773506",
+        "session_id": "264ff66e-1920-46f5-9fce-284716c1455b",
+        "question": "What is the cheapest B.Sc Chemistry course?"
+    },
+    {
+        "timestamp": "2026-03-03T16:58:16.794570",
+        "session_id": "264ff66e-1920-46f5-9fce-284716c1455b",
+        "question": "Which college offers the cheapest B.Com course?"
     }
 ]
